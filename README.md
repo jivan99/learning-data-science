@@ -71,7 +71,7 @@
         - [x] 1. OOP - Introduction
         - [x] 2. OOP - Attributes and Class Keyword
         - [x] 3. OOP - Class Object Attributes and Methods
-        - [ ] 4. OOP - Inheritance and Polymorphism
+        - [x] 4. OOP - Inheritance and Polymorphism
         - [ ] 5. OOP - Special (Magic/Duner) Methods
         - [ ] 6. OOP - Homework
         - [ ] 7. OOP - Homework Solution
