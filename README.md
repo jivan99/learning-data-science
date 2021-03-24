@@ -32,14 +32,14 @@
     - [x] **04 Python Comparison Operators**
         - [x] 1. Comparison Operators in Python
         - [x] 2. Chaining Comparison Operators in Python with Logical Operators
-    - [ ] **05 Python Statements**
-        - [ ] 1. If Elif and Else Statements in Python
-        - [ ] 2. For Loops in Python
-        - [ ] 3. While Loops in Python
-        - [ ] 4. Useful Operators in Python
-        - [ ] 5. List Comprehensions in Python
-        - [ ] 6. Python Statements Test Overview
-        - [ ] 7. Python Statements Test Solutions
+    - [x] **05 Python Statements**
+        - [x] 1. If Elif and Else Statements in Python
+        - [x] 2. For Loops in Python
+        - [x] 3. While Loops in Python
+        - [x] 4. Useful Operators in Python
+        - [x] 5. List Comprehensions in Python
+        - [x] 6. Python Statements Test Overview
+        - [x] 7. Python Statements Test Solutions
     - [ ] **06 Methods and Functions**
         - [ ] 1. Methods and the Python Documentation
         - [ ] 2. Introduction to Functions
