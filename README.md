@@ -59,7 +59,7 @@
         - [x] 16. Methods and Functions Homework Overview
         - [x] 17. Methods and Functions Homework - Solutions
     - [ ] **07 Milestone Project - 1**
-        - [ ] 1. Introduction to Warm Up Project Exercises
+        - [x] 1. Introduction to Warm Up Project Exercises
         - [ ] 2. Displaying Information
         - [ ] 3. Accepting User Input
         - [ ] 4. Validating User Input
