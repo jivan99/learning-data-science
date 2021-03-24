@@ -72,7 +72,7 @@
         - [x] 2. OOP - Attributes and Class Keyword
         - [x] 3. OOP - Class Object Attributes and Methods
         - [x] 4. OOP - Inheritance and Polymorphism
-        - [ ] 5. OOP - Special (MagicDunder) Methods
+        - [x] 5. OOP - Special (MagicDunder) Methods
         - [ ] 6. OOP - Homework
         - [ ] 7. OOP - Homework Solution
         - [ ] 8. OOP - Challenge Overview
