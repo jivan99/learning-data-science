@@ -4,7 +4,7 @@
 
 - [ ] [Udemy: 2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
     - [ ] **01 Course Overview**
-        - [ ] 1. Course Introduction
+        - [x] 1. Course Introduction
         - [ ] 2. Course Curriculum Overview
         - [ ] 3. Why Python?
     - [ ] **02 Python Setup**
