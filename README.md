@@ -15,7 +15,7 @@
         - [x] 5. Git and Github Overview (Optional)
     - [ ] **03 Python Object and Data Structure Basics**
         - [x] 1. Introduction to Python Data Types
-        - [ ] 2. Python Numbers
+        - [x] 2. Python Numbers
         - [ ] 3. Variable Assignments
         - [ ] 4. Introduction to Strings
         - [ ] 5. Indexing and Slicing with Strings
