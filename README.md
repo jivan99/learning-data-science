@@ -62,7 +62,7 @@
         - [x] 1. Introduction to Warm Up Project Exercises
         - [x] 2. Displaying Information
         - [x] 3. Accepting User Input
-        - [ ] 4. Validating User Input
+        - [x] 4. Validating User Input
         - [ ] 5. Simple User Interaction
         - [ ] 6. First Python Milestone Project Overview
         - [ ] 7. Solution Overview for Milestone Project 1 - Part One
