@@ -8,7 +8,7 @@
         - [x] 2. Course Curriculum Overview
         - [x] 3. Why Python?
     - [ ] **02 Python Setup**
-        - [ ] 1. Command Line Basics
+        - [x] 1. Command Line Basics
         - [ ] 2. Installing Python (Step by Step)
         - [ ] 3. Running Python Code
         - [ ] 4. Getting the Notebooks and the Course Material
