@@ -61,7 +61,7 @@
     - [ ] **07 Milestone Project - 1**
         - [x] 1. Introduction to Warm Up Project Exercises
         - [x] 2. Displaying Information
-        - [ ] 3. Accepting User Input
+        - [x] 3. Accepting User Input
         - [ ] 4. Validating User Input
         - [ ] 5. Simple User Interaction
         - [ ] 6. First Python Milestone Project Overview
