@@ -74,7 +74,7 @@
         - [x] 4. OOP - Inheritance and Polymorphism
         - [x] 5. OOP - Special (MagicDunder) Methods
         - [x] 6. OOP - Homework
-        - [ ] 7. OOP - Homework Solution
+        - [x] 7. OOP - Homework Solution
         - [ ] 8. OOP - Challenge Overview
         - [ ] 9. OOP - Challenge Solution
     - [ ] **09 Modules and Packages**
