@@ -69,7 +69,7 @@
         - [ ] 8. Solution Overview for Milestone Project 1 - Part Two
     - [ ] **08 Object Oriented Programming**
         - [x] 1. OOP - Introduction
-        - [ ] 2. OOP - Attributes and Class Keyword
+        - [x] 2. OOP - Attributes and Class Keyword
         - [ ] 3. OOP - Class Object Attributes and Methods
         - [ ] 4. OOP - Inheritance and Polymorphism
         - [ ] 5. OOP - Special (Magic/Duner) Methods
