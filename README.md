@@ -21,7 +21,7 @@
         - [x] 5. Indexing and Slicing with Strings
         - [x] 6. String Properties and Methods
         - [x] 7. Print Formatting with Strings
-        - [ ] 8. Lists in Python
+        - [x] 8. Lists in Python
         - [ ] 9. Dictionaries in Python
         - [ ] 10. Tuples with Python
         - [ ] 11. Sets in Python
