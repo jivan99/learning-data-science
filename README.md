@@ -26,7 +26,7 @@
         - [x] 10. Tuples with Python
         - [x] 11. Sets in Python
         - [x] 12. Booleans in Python
-        - [ ] 13. I/O with Basic Files in Python
+        - [x] 13. I/O with Basic Files in Python
         - [ ] 14. Python Objects and Data Structures Assessment Test Overview
         - [ ] 15. Python Objects and Data Structures Assessment Test Solutions
     - [ ] **04 Python Comparison Operators**
