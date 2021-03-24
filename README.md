@@ -64,7 +64,7 @@
         - [x] 3. Accepting User Input
         - [x] 4. Validating User Input
         - [x] 5. Simple User Interaction
-        - [ ] 6. First Python Milestone Project Overview
+        - [x] 6. First Python Milestone Project Overview
         - [ ] 7. Solution Overview for Milestone Project 1 - Part One
         - [ ] 8. Solution Overview for Milestone Project 1 - Part Two
     - [ ] **08 Object Oriented Programming**
