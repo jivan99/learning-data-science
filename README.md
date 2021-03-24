@@ -63,7 +63,7 @@
         - [x] 2. Displaying Information
         - [x] 3. Accepting User Input
         - [x] 4. Validating User Input
-        - [ ] 5. Simple User Interaction
+        - [x] 5. Simple User Interaction
         - [ ] 6. First Python Milestone Project Overview
         - [ ] 7. Solution Overview for Milestone Project 1 - Part One
         - [ ] 8. Solution Overview for Milestone Project 1 - Part Two
