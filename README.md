@@ -3,10 +3,10 @@
 #### Be Proficient in Python
 
 - [ ] [Udemy: 2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
-    - [ ] **01 Course Overview**
+    - [x] **01 Course Overview**
         - [x] 1. Course Introduction
         - [x] 2. Course Curriculum Overview
-        - [ ] 3. Why Python?
+        - [x] 3. Why Python?
     - [ ] **02 Python Setup**
         - [ ] 1. Command Line Basics
         - [ ] 2. Installing Python (Step by Step)
