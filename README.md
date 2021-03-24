@@ -16,7 +16,7 @@
     - [ ] **03 Python Object and Data Structure Basics**
         - [x] 1. Introduction to Python Data Types
         - [x] 2. Python Numbers
-        - [ ] 3. Variable Assignments
+        - [x] 3. Variable Assignments
         - [ ] 4. Introduction to Strings
         - [ ] 5. Indexing and Slicing with Strings
         - [ ] 6. String Properties and Methods
