@@ -29,9 +29,9 @@
         - [x] 13. I/O with Basic Files in Python
         - [x] 14. Python Objects and Data Structures Assessment Test Overview
         - [x] 15. Python Objects and Data Structures Assessment Test Solutions
-    - [ ] **04 Python Comparison Operators**
-        - [ ] 1. Comparison Operators in Python
-        - [ ] 2. Chaining Comparison Operators in Python with Logical Operators
+    - [x] **04 Python Comparison Operators**
+        - [x] 1. Comparison Operators in Python
+        - [x] 2. Chaining Comparison Operators in Python with Logical Operators
     - [ ] **05 Python Statements**
         - [ ] 1. If Elif and Else Statements in Python
         - [ ] 2. For Loops in Python
