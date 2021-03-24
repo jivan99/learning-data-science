@@ -9,7 +9,7 @@
         - [x] 3. Why Python?
     - [ ] **02 Python Setup**
         - [x] 1. Command Line Basics
-        - [ ] 2. Installing Python (Step by Step)
+        - [x] 2. Installing Python (Step by Step)
         - [ ] 3. Running Python Code
         - [ ] 4. Getting the Notebooks and the Course Material
         - [ ] 5. Git and Github Overview (Optional)
