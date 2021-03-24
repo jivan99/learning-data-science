@@ -18,7 +18,7 @@
         - [x] 2. Python Numbers
         - [x] 3. Variable Assignments
         - [x] 4. Introduction to Strings
-        - [ ] 5. Indexing and Slicing with Strings
+        - [x] 5. Indexing and Slicing with Strings
         - [ ] 6. String Properties and Methods
         - [ ] 7. Print Formatting with Strings
         - [ ] 8. Lists in Python
