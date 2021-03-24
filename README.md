@@ -20,7 +20,7 @@
         - [x] 4. Introduction to Strings
         - [x] 5. Indexing and Slicing with Strings
         - [x] 6. String Properties and Methods
-        - [ ] 7. Print Formatting with Strings
+        - [x] 7. Print Formatting with Strings
         - [ ] 8. Lists in Python
         - [ ] 9. Dictionaries in Python
         - [ ] 10. Tuples with Python
