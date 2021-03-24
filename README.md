@@ -23,7 +23,7 @@
         - [x] 7. Print Formatting with Strings
         - [x] 8. Lists in Python
         - [x] 9. Dictionaries in Python
-        - [ ] 10. Tuples with Python
+        - [x] 10. Tuples with Python
         - [ ] 11. Sets in Python
         - [ ] 12. Booleans in Python
         - [ ] 13. I/O with Basic Files in Python
