@@ -10,7 +10,7 @@
     - [ ] **02 Python Setup**
         - [x] 1. Command Line Basics
         - [x] 2. Installing Python (Step by Step)
-        - [ ] 3. Running Python Code
+        - [x] 3. Running Python Code
         - [ ] 4. Getting the Notebooks and the Course Material
         - [ ] 5. Git and Github Overview (Optional)
     - [ ] **03 Python Object and Data Structure Basics**
