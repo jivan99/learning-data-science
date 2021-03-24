@@ -67,7 +67,7 @@
         - [x] 6. First Python Milestone Project Overview
         - [ ] 7. Solution Overview for Milestone Project 1 - Part One
         - [ ] 8. Solution Overview for Milestone Project 1 - Part Two
-    - [ ] **08 Object Oriented Programming**
+    - [x] **08 Object Oriented Programming**
         - [x] 1. OOP - Introduction
         - [x] 2. OOP - Attributes and Class Keyword
         - [x] 3. OOP - Class Object Attributes and Methods
@@ -75,8 +75,8 @@
         - [x] 5. OOP - Special (MagicDunder) Methods
         - [x] 6. OOP - Homework
         - [x] 7. OOP - Homework Solution
-        - [ ] 8. OOP - Challenge Overview
-        - [ ] 9. OOP - Challenge Solution
+        - [x] 8. OOP - Challenge Overview
+        - [x] 9. OOP - Challenge Solution
     - [ ] **09 Modules and Packages**
         - [ ] 1. Pip Install and PyPi
         - [ ] 2. Modules and Packages
