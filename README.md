@@ -13,7 +13,7 @@
         - [x] 3. Running Python Code
         - [x] 4. Getting the Notebooks and the Course Material
         - [x] 5. Git and Github Overview (Optional)
-    - [ ] **03 Python Object and Data Structure Basics**
+    - [x] **03 Python Object and Data Structure Basics**
         - [x] 1. Introduction to Python Data Types
         - [x] 2. Python Numbers
         - [x] 3. Variable Assignments
@@ -28,7 +28,7 @@
         - [x] 12. Booleans in Python
         - [x] 13. I/O with Basic Files in Python
         - [x] 14. Python Objects and Data Structures Assessment Test Overview
-        - [ ] 15. Python Objects and Data Structures Assessment Test Solutions
+        - [x] 15. Python Objects and Data Structures Assessment Test Solutions
     - [ ] **04 Python Comparison Operators**
         - [ ] 1. Comparison Operators in Python
         - [ ] 2. Chaining Comparison Operators in Python with Logical Operators
