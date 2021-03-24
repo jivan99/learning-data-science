@@ -40,24 +40,24 @@
         - [x] 5. List Comprehensions in Python
         - [x] 6. Python Statements Test Overview
         - [x] 7. Python Statements Test Solutions
-    - [ ] **06 Methods and Functions**
-        - [ ] 1. Methods and the Python Documentation
-        - [ ] 2. Introduction to Functions
-        - [ ] 3. def Keyword
-        - [ ] 4. Basics of Python Functions
-        - [ ] 5. Logic with Python Functions
-        - [ ] 6. Tuple Unpacking with Python Functions
-        - [ ] 7. Interactions between Python Functions
-        - [ ] 8. *args and **kwargs in Python
-        - [ ] 9. Function Practice Exercises - Overview
-        - [ ] 10. Function Practice Exercises - Solutions
-        - [ ] 11. Function Practice - Solutions Level One
-        - [ ] 12. Function Practice - Solutions Level Two
-        - [ ] 13. Function Exercise Solutions - Challenge Problem
-        - [ ] 14. Lambda Expressions, Map and Filter Functions
-        - [ ] 15. Nested Statements and Scope
-        - [ ] 16. Methods and Functions Homework Overview
-        - [ ] 17. Methods and Functions Homework - Solutions
+    - [x] **06 Methods and Functions**
+        - [x] 1. Methods and the Python Documentation
+        - [x] 2. Introduction to Functions
+        - [x] 3. def Keyword
+        - [x] 4. Basics of Python Functions
+        - [x] 5. Logic with Python Functions
+        - [x] 6. Tuple Unpacking with Python Functions
+        - [x] 7. Interactions between Python Functions
+        - [x] 8. *args and **kwargs in Python
+        - [x] 9. Function Practice Exercises - Overview
+        - [x] 10. Function Practice Exercises - Solutions
+        - [x] 11. Function Practice - Solutions Level One
+        - [x] 12. Function Practice - Solutions Level Two
+        - [x] 13. Function Exercise Solutions - Challenge Problem
+        - [x] 14. Lambda Expressions, Map and Filter Functions
+        - [x] 15. Nested Statements and Scope
+        - [x] 16. Methods and Functions Homework Overview
+        - [x] 17. Methods and Functions Homework - Solutions
     - [ ] **07 Milestone Project - 1**
         - [ ] 1. Introduction to Warm Up Project Exercises
         - [ ] 2. Displaying Information
