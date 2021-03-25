@@ -83,7 +83,7 @@
         - [x] 3. __name__ and "__main__"
     - [ ] **10 Errors and Exceptions Handling**
         - [x] 1. Errors and Exception Handling
-        - [ ] 2. Errors and Exception Homework
+        - [x] 2. Errors and Exception Homework
         - [ ] 3. Errors and Exception Homework - Solutions
         - [ ] 4. Pylint Overview
         - [ ] 5. Running tests with the UnitTest Library
