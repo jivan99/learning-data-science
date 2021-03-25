@@ -82,7 +82,7 @@
         - [x] 2. Modules and Packages
         - [x] 3. __name__ and "__main__"
     - [ ] **10 Errors and Exceptions Handling**
-        - [ ] 1. Errors and Exception Handling
+        - [x] 1. Errors and Exception Handling
         - [ ] 2. Errors and Exception Homework
         - [ ] 3. Errors and Exception Homework - Solutions
         - [ ] 4. Pylint Overview
