@@ -79,7 +79,7 @@
         - [x] 9. OOP - Challenge Solution
     - [ ] **09 Modules and Packages**
         - [x] 1. Pip Install and PyPi
-        - [ ] 2. Modules and Packages
+        - [x] 2. Modules and Packages
         - [ ] 3. __name__ and "__main__"
     - [ ] **10 Errors and Exceptions Handling**
         - [ ] 1. Errors and Exception Handling
