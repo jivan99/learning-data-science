@@ -81,12 +81,12 @@
         - [x] 1. Pip Install and PyPi
         - [x] 2. Modules and Packages
         - [x] 3. __name__ and "__main__"
-    - [ ] **10 Errors and Exceptions Handling**
+    - [x] **10 Errors and Exceptions Handling**
         - [x] 1. Errors and Exception Handling
         - [x] 2. Errors and Exception Homework
         - [x] 3. Errors and Exception Homework - Solutions
-        - [ ] 4. Pylint Overview
-        - [ ] 5. Running tests with the UnitTest Library
+        - [x] 4. Pylint Overview
+        - [x] 5. Running tests with the UnitTest Library
     - [ ] **11 Milestone Project - 2**
         - [ ] 1. Introduction to Milestone Project 2 Section Warmup
         - [ ] 2. Card Class
