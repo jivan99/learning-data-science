@@ -89,7 +89,7 @@
         - [x] 5. Running tests with the UnitTest Library
     - [ ] **11 Milestone Project - 2**
         - [x] 1. Introduction to Milestone Project 2 Section Warmup
-        - [ ] 2. Card Class
+        - [x] 2. Card Class
         - [ ] 3. Deck Class
         - [ ] 4. Player Class
         - [ ] 5. Game Logic - Part One
