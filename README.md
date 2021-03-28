@@ -88,7 +88,7 @@
         - [x] 4. Pylint Overview
         - [x] 5. Running tests with the UnitTest Library
     - [ ] **11 Milestone Project - 2**
-        - [ ] 1. Introduction to Milestone Project 2 Section Warmup
+        - [x] 1. Introduction to Milestone Project 2 Section Warmup
         - [ ] 2. Card Class
         - [ ] 3. Deck Class
         - [ ] 4. Player Class
