@@ -58,15 +58,15 @@
         - [x] 15. Nested Statements and Scope
         - [x] 16. Methods and Functions Homework Overview
         - [x] 17. Methods and Functions Homework - Solutions
-    - [ ] **07 Milestone Project - 1**
+    - [x] **07 Milestone Project - 1**
         - [x] 1. Introduction to Warm Up Project Exercises
         - [x] 2. Displaying Information
         - [x] 3. Accepting User Input
         - [x] 4. Validating User Input
         - [x] 5. Simple User Interaction
         - [x] 6. First Python Milestone Project Overview
-        - [ ] 7. Solution Overview for Milestone Project 1 - Part One
-        - [ ] 8. Solution Overview for Milestone Project 1 - Part Two
+        - [x] 7. Solution Overview for Milestone Project 1 - Part One
+        - [x] 8. Solution Overview for Milestone Project 1 - Part Two
     - [x] **08 Object Oriented Programming**
         - [x] 1. OOP - Introduction
         - [x] 2. OOP - Attributes and Class Keyword
