@@ -94,7 +94,7 @@
         - [x] 4. Player Class
         - [x] 5. Game Logic - Part One
         - [x] 6. Game Logic - Part Two
-        - [ ] 7. Game Logic - Part Three
+        - [x] 7. Game Logic - Part Three
         - [ ] 8. Milestone Project 2 Overview
         - [ ] 9. Solution Walkthrough - Card and Deck classes
         - [ ] 10. Solution Walkthrough - Hand and Chip Classes
