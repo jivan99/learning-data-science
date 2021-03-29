@@ -91,7 +91,7 @@
         - [x] 1. Introduction to Milestone Project 2 Section Warmup
         - [x] 2. Card Class
         - [x] 3. Deck Class
-        - [ ] 4. Player Class
+        - [x] 4. Player Class
         - [ ] 5. Game Logic - Part One
         - [ ] 6. Game Logic - Part Two
         - [ ] 7. Game Logic - Part Three
