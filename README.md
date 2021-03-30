@@ -100,9 +100,9 @@
         - [ ] 10. Solution Walkthrough - Hand and Chip Classes
         - [ ] 11. Solution Walkthrough - Functions for Game Play
         - [ ] 12. Solutions Walkthrough - Final Gameplay Script
-    - [ ] **12 Python Decorators**
-        - [ ] 1. Decorators with Python Overview
-        - [ ] 2. Decorators Homework
+    - [x] **12 Python Decorators**
+        - [x] 1. Decorators with Python Overview
+        - [x] 2. Decorators Homework
     - [ ] **13 Python Generators**
         - [ ] 1. Generators with Python
         - [ ] 2. Generators Homework Overview
