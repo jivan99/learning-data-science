@@ -103,10 +103,10 @@
     - [x] **12 Python Decorators**
         - [x] 1. Decorators with Python Overview
         - [x] 2. Decorators Homework
-    - [ ] **13 Python Generators**
-        - [ ] 1. Generators with Python
-        - [ ] 2. Generators Homework Overview
-        - [ ] 3. Generators Homework Solutions
+    - [x] **13 Python Generators**
+        - [x] 1. Generators with Python
+        - [x] 2. Generators Homework Overview
+        - [x] 3. Generators Homework Solutions
     - [ ] **14 Advanced Python Modules**
         - [ ] 1. Introduction to Advanced Python Modules
         - [ ] 2. Python Collections Module
