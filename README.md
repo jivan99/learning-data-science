@@ -107,20 +107,20 @@
         - [x] 1. Generators with Python
         - [x] 2. Generators Homework Overview
         - [x] 3. Generators Homework Solutions
-    - [ ] **14 Advanced Python Modules**
-        - [ ] 1. Introduction to Advanced Python Modules
-        - [ ] 2. Python Collections Module
-        - [ ] 3. Opening and Reading Files and Folders (Python OS Module)
-        - [ ] 4. Python Datetime Module
-        - [ ] 5. Python Math and Random Modules
-        - [ ] 6. Python Debugger
-        - [ ] 7. Python Regular Expressions Part One
-        - [ ] 8. Python Regular Expressions Part Two
-        - [ ] 9. Python Regular Expressions Part Three
-        - [ ] 10. Triming Your Python Code
-        - [ ] 11. Zipping and Unzipping files with Python
-        - [ ] 12. Advanced Python Module Puzzle - Overview
-        - [ ] 13. Advanced Python Module Puzzle - Solution
+    - [x] **14 Advanced Python Modules**
+        - [x] 1. Introduction to Advanced Python Modules
+        - [x] 2. Python Collections Module
+        - [x] 3. Opening and Reading Files and Folders (Python OS Module)
+        - [x] 4. Python Datetime Module
+        - [x] 5. Python Math and Random Modules
+        - [x] 6. Python Debugger
+        - [x] 7. Python Regular Expressions Part One
+        - [x] 8. Python Regular Expressions Part Two
+        - [x] 9. Python Regular Expressions Part Three
+        - [x] 10. Timing Your Python Code
+        - [x] 11. Zipping and Unzipping files with Python
+        - [x] 12. Advanced Python Module Puzzle - Overview
+        - [x] 13. Advanced Python Module Puzzle - Solution
     - [ ] **15 Web Scraping with Python**
         - [ ] 1. Introduction to Web Scraping
         - [ ] 2. Setting Up Web Scrapping Libraries
