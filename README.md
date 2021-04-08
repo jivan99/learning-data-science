@@ -169,6 +169,151 @@
 
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
     - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
+      - [ ] ***Week 1 (Introducing data analytics)***
+        - [ ] **01 Start The Program**
+          - [ ] Video: Welcome to the Google Data Analytics Certificate
+          - [ ] Reading: Program description and course syllabus
+          - [ ] Practice Quiz: Activity: Create a data journal
+          - [ ] Video: Introduction to the course
+          - [ ] Reading: Helpful resources to get started 
+          - [ ] Discussion Prompt: Meet and greet
+          - [ ] Your data analytics certificate roadmap
+          - [ ] Reading: Deciding if you should take the speed track
+          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz
+          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [ ] **02 Transforming data into insights**
+          - [ ] Video: Data analytics in everyday life
+          - [ ] Reading: Case Study: New data perspectives
+          - [ ] Practice Quiz: Journal Entry:  Thoughts on the case
+          - [ ] Video: Cassie: Dimensions of data analytics
+        - [ ] **03 Understanding the data ecosystem**
+          - [ ] Video: What is the data ecosystem? 
+          - [ ] Video: How data informs better decisions
+          - [ ] Reading: Data and gut instinct
+          - [ ] Reading: Origins of the data analysis process
+          - [ ] Practice Quiz: Test your knowledge on the data ecosystem
+        - [ ] **04 Getting to know the program expectations**
+          - [ ] Video: What to expect moving forward
+          - [ ] Commit to completing the program
+          - [ ] Reading: Program surveys
+          - [ ] Google Data Analytics Participant Entry Survey
+          - [ ] Reading: Discussion forums
+          - [ ] Reading: Get to know your classmates
+          - [ ] Discussion Prompt: Meet and greet
+          - [ ] Practice Quiz: Get to know the program expectations
+        - [ ] **05 Weekly challenge 1**
+          - [ ] Reading: Glossary: Terms and definitions 
+          - [ ] Quiz: *Weekly challenge 1*
+      - [ ] ***Week 2 (Thinking analytically)***
+        - [ ] **01 Introducing analytical thinking**
+          - [ ] Video: Discovering data skillsets
+        - [ ] **02 Embracing data analyst skills**
+          - [ ] Video: Key data analyst skills
+          - [ ] Practice Quiz: Get a read on your analytical skills
+          - [ ] Practice Quiz: Journal Entry: Data in your everyday life
+          - [ ] Test your knowledge on data analyst skills 
+        - [ ] **03 Thinking about analytical thinking**
+          - [ ] Video: All about thinking analytically 
+          - [ ] Practice Quiz: Self-Reflection: What you bring to the table
+          - [ ] Video: Exploring core analytical skills
+          - [ ] Practice Quiz: Journal Entry: Personal expectations
+          - [ ] Practice Quiz: Test your knowledge on analytical thinking
+        - [ ] **04 Thinking about the outcomes**
+          - [ ] Video: Using data to drive successful outcomes 
+          - [ ] Video: Real-world data magic
+          - [ ] Discussion Prompt: More about you
+          - [ ] Practice Quiz: Test your knowledge on outcomes
+        - [ ] **05 Weekly Challenge 2**
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 2*
+      - [ ] ***Week 3 (Exploring the wonderful world of data)***
+        - [ ] **01 Introducing data fundamentals**
+          - [ ] Video: Learning about data phases and tools
+        - [ ] **02 Following the data life cycle**
+          - [ ] Video: Phases of the data life cycle
+          - [ ] Practice Quiz: Self-Reflection: Collecting data
+          - [ ] Practice Quiz: Test your knowledge on the data life cycle
+        - [ ] **03 Outlining the data analysis process**
+          - [ ] Video: Six steps of data analysis
+          - [ ] Reading: The data analysis process and this program
+          - [ ] Video: Molly: Example of the data process
+          - [ ] Practice Quiz: Journal Entry: Organizing data
+          - [ ] Discussion Prompt: Important stages in the process
+          - [ ] Practice Quiz: Test your knowledge on the data analysis process
+        - [ ] **04 The data analysis toolbox**
+          - [ ] Video: Exploring data analyst tools
+          - [ ] Reading: Key data analyst tools
+          - [ ] Reading: Choosing the right tool for the job
+          - [ ] Practice Quiz: Self-Reflection: Reviewing past concepts
+          - [ ] Practice Quiz: Test your knowledge on the data analysis toolbox
+        - [ ] **05 Weekly challenge 3**
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 3*
+      - [ ] ***Week 4 (Setting up a data toolbox)***
+        - [ ] **01 Introducing more about core data tools**
+          - [ ] Video: The ins and outs of core data tools
+        - [ ] **02 Mastering spreadsheet basics**
+          - [ ] Video: Columns and rows and cells, oh my!
+          - [ ] Discussion Prompt: Spreadsheets in daily life
+          - [ ] Practice Quiz: Hands-On Activity: Generating a chart from a spreadsheet
+          - [ ] Reading: More spreadsheet resources
+          - [ ] Discussion Prompt: Share your chart
+          - [ ] Practice Quiz: Test your knowledge on spreadsheet basics
+        - [ ] **03 Learn about Structured Query Language (SQL)**
+          - [ ] Video: SQL in action
+          - [ ] Reading: More about SQL in action
+          - [ ] Reading: SQL Guide: Getting started
+          - [ ] Video: Angie: Everyday struggles when learning new skills
+          - [ ] Practice Quiz: Test your knowledge on SQL
+        - [ ] **04 Visualizing the data**
+          - [ ] Video: Becoming a data viz whiz
+          - [ ] Reading: Planning a data visualization
+          - [ ] Video: Lilah: The power of a visualization
+          - [ ] Discussion Prompt: Visualizations in daily life
+          - [ ] Practice Quiz: Test your knowledge on visualizing data
+        - [ ] **05 Introducing Qwiklabs**
+          - [ ] Video: Evan: How to access Qwiklabs
+          - [ ] Video: Evan: Welcome to Qwiklabs
+          - [ ] Reading: Step by step instructions for accessing Qwiklabs 
+          - [ ] Ungraded External Tool: Ungraded External ToolIntro to Qwiklabs
+          - [ ] Video: Evan: What to do when you're stuck in a Qwiklab
+          - [ ] Ungraded External Tool: Ungraded External ToolIntroduction to Google Drive
+        - [ ] **06 Weekly Challenge**
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 4*
+      - [ ] ***Week 5 (Discovering data career possibilities)***
+        - [ ] **01 Introducing data analyst career possibilities**
+          - [ ] Video: Let's get down to business
+        - [ ] **02 Learn about data analyst job opportunities**
+          - [ ] Video: The job of a data analyst
+          - [ ] Video: Joey: Path to becoming a data analyst
+          - [ ] Practice Quiz: Self-Reflection: Business use of data
+          - [ ] Video: Tony: Supporting careers in data analytics
+          - [ ] Practice Quiz: Journal Entry: Identifying trends
+          - [ ] Test your knowledge on data analyst roles
+        - [ ] **03 Making decisions with data**
+          - [ ] Video: The power of data in business
+          - [ ] Video: Rachel: Data detectives
+          - [ ] Practice Quiz: Test your knowledge on making decisions with data
+        - [ ] **04 Defining fairness in data**
+          - [ ] Video: Understanding data and fairness
+          - [ ] Practice Quiz: Self-Reflection: Business cases
+          - [ ] Discussion Prompt: Case opinion
+          - [ ] Video: Alex: Fair and ethical data decisions
+          - [ ] Practice Quiz: Test your knowledge on fairness in data 
+        - [ ] **05 Optional: Exploring your next job**
+          - [ ] Video: Data analysts in different industries
+          - [ ] Reading: Data analyst roles and job descriptions
+          - [ ] Video: Samah: Data interview best practices
+          - [ ] Reading: "Beyond the Numbers," a data journey
+        - [ ] **06 Weekly challenge 5**
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 5*
+        - [ ] **07 Course challenge**
+          - [ ] Video: Weekly wrap-up
+          - [ ] Quiz: *Course challenge*
+          - [ ] Video: Congrats! Course wrap-up 
+          - [ ] Reading: Coming up next...
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
