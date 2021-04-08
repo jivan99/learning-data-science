@@ -164,3 +164,15 @@
         - [ ] 5. List of Possible Widgets
         - [ ] 6. Widget Styling and Layouts
         - [ ] 7. Example of what a Widget can do!
+
+#### Be Proficient in Data Analytics
+
+- [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+    - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
+    - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
+    - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
+    - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
+    - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
+    - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
+    - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
+    - [ ] [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
