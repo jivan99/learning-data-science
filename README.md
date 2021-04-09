@@ -121,16 +121,16 @@
         - [x] 11. Zipping and Unzipping files with Python
         - [x] 12. Advanced Python Module Puzzle - Overview
         - [x] 13. Advanced Python Module Puzzle - Solution
-    - [ ] **15 Web Scraping with Python**
-        - [ ] 1. Introduction to Web Scraping
-        - [ ] 2. Setting Up Web Scrapping Libraries
-        - [ ] 3. Python Web Scraping - Grabbing a Title
-        - [ ] 4. Python Web Scraping - Grabbing a Class
-        - [ ] 5. Python Web Scraping - Grabbing an Image
-        - [ ] 6. Python Web Scraping - Book Examples Part One
-        - [ ] 7. Python Web Scraping - Book Examples Part Two
-        - [ ] 8. Python Web Scraping - Exercise Overview
-        - [ ] 9. Python Web Scraping - Exercise Solutions
+    - [x] **15 Web Scraping with Python**
+        - [x] 1. Introduction to Web Scraping
+        - [x] 2. Setting Up Web Scrapping Libraries
+        - [x] 3. Python Web Scraping - Grabbing a Title
+        - [x] 4. Python Web Scraping - Grabbing a Class
+        - [x] 5. Python Web Scraping - Grabbing an Image
+        - [x] 6. Python Web Scraping - Book Examples Part One
+        - [x] 7. Python Web Scraping - Book Examples Part Two
+        - [x] 8. Python Web Scraping - Exercise Overview
+        - [x] 9. Python Web Scraping - Exercise Solutions
     - [ ] **16 Working with Images with Python**
         - [ ] 1. Introduction to Images with Python
         - [ ] 2. Working with Images with Python
