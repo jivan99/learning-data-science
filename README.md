@@ -136,12 +136,12 @@
         - [x] 2. Working with Images with Python
         - [x] 3. Python Image Exercises - Overview
         - [x] 4. Python Image Exercises - Solution
-    - [ ] **17 Working with PDFs and Spreadsheet CSV Files**
-        - [ ] 1. Introduction to PDFs and Spreadsheets with Python
-        - [ ] 2. Working with CSV Files in Python
-        - [ ] 3. Working with PDF Files in Python
-        - [ ] 4. PDFs and Spreadsheets Python Puzzle Exercise
-        - [ ] 5. PDFs and Spreadsheets Python Puzzle Exercise - Solutions
+    - [x] **17 Working with PDFs and Spreadsheet CSV Files**
+        - [x] 1. Introduction to PDFs and Spreadsheets with Python
+        - [x] 2. Working with CSV Files in Python
+        - [x] 3. Working with PDF Files in Python
+        - [x] 4. PDFs and Spreadsheets Python Puzzle Exercise
+        - [x] 5. PDFs and Spreadsheets Python Puzzle Exercise - Solutions
     - [ ] **18 Emails with Python**
         - [ ] 1. Introduction to Emails with Python
         - [ ] 2. Sending Emails with Python
