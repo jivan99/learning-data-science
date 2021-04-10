@@ -156,15 +156,7 @@
         - [ ] 5. Advanced Lists
         - [ ] 6. Advanced Python Objects Assessment Test
         - [ ] 7. Advanced Python Objects Test - Solutions
-    - [ ] **21 Bonus Material - Introduction to GUIs**
-        - [ ] 1. Introduction to GUIs
-        - [ ] 2. Quick note about ipywidgets
-        - [ ] 3. Interact Functionality with GUIs
-        - [ ] 4. GUI Widget Basics
-        - [ ] 5. List of Possible Widgets
-        - [ ] 6. Widget Styling and Layouts
-        - [ ] 7. Example of what a Widget can do!
-
+        
 #### Be Proficient in Data Analytics
 
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
