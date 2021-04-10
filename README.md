@@ -131,11 +131,11 @@
         - [x] 7. Python Web Scraping - Book Examples Part Two
         - [x] 8. Python Web Scraping - Exercise Overview
         - [x] 9. Python Web Scraping - Exercise Solutions
-    - [ ] **16 Working with Images with Python**
-        - [ ] 1. Introduction to Images with Python
-        - [ ] 2. Working with Images with Python
-        - [ ] 3. Python Image Exercises - Overview
-        - [ ] 4. Python Image Exercises - Solution
+    - [x] **16 Working with Images with Python**
+        - [x] 1. Introduction to Images with Python
+        - [x] 2. Working with Images with Python
+        - [x] 3. Python Image Exercises - Overview
+        - [x] 4. Python Image Exercises - Solution
     - [ ] **17 Working with PDFs and Spreadsheet CSV Files**
         - [ ] 1. Introduction to PDFs and Spreadsheets with Python
         - [ ] 2. Working with CSV Files in Python
