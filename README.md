@@ -87,7 +87,7 @@
         - [x] 3. Errors and Exception Homework - Solutions
         - [x] 4. Pylint Overview
         - [x] 5. Running tests with the UnitTest Library
-    - [ ] **11 Milestone Project - 2**
+    - [x] **11 Milestone Project - 2**
         - [x] 1. Introduction to Milestone Project 2 Section Warmup
         - [x] 2. Card Class
         - [x] 3. Deck Class
@@ -95,11 +95,11 @@
         - [x] 5. Game Logic - Part One
         - [x] 6. Game Logic - Part Two
         - [x] 7. Game Logic - Part Three
-        - [ ] 8. Milestone Project 2 Overview
-        - [ ] 9. Solution Walkthrough - Card and Deck classes
-        - [ ] 10. Solution Walkthrough - Hand and Chip Classes
-        - [ ] 11. Solution Walkthrough - Functions for Game Play
-        - [ ] 12. Solutions Walkthrough - Final Gameplay Script
+        - [x] 8. Milestone Project 2 Overview
+        - [x] 9. Solution Walkthrough - Card and Deck classes
+        - [x] 10. Solution Walkthrough - Hand and Chip Classes
+        - [x] 11. Solution Walkthrough - Functions for Game Play
+        - [x] 12. Solutions Walkthrough - Final Gameplay Script
     - [x] **12 Python Decorators**
         - [x] 1. Decorators with Python Overview
         - [x] 2. Decorators Homework
