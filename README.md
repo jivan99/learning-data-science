@@ -142,10 +142,10 @@
         - [x] 3. Working with PDF Files in Python
         - [x] 4. PDFs and Spreadsheets Python Puzzle Exercise
         - [x] 5. PDFs and Spreadsheets Python Puzzle Exercise - Solutions
-    - [ ] **18 Emails with Python**
-        - [ ] 1. Introduction to Emails with Python
-        - [ ] 2. Sending Emails with Python
-        - [ ] 3. Receiving Emails with Python
+    - [x] **18 Emails with Python**
+        - [x] 1. Introduction to Emails with Python
+        - [x] 2. Sending Emails with Python
+        - [x] 3. Receiving Emails with Python
     - [ ] **19 Final Capstone Python Project**
         - [ ] 1. Final Capstone Project
     - [ ] **20 Advanced Python Objects and Data Structures**
