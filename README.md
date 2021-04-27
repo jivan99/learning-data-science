@@ -148,14 +148,14 @@
         - [x] 3. Receiving Emails with Python
     - [ ] **19 Final Capstone Python Project**
         - [ ] 1. Final Capstone Project
-    - [ ] **20 Advanced Python Objects and Data Structures**
-        - [ ] 1. Advanced Numbers
-        - [ ] 2. Advanced Strings
-        - [ ] 3. Advabced Sets
-        - [ ] 4. Advanced Dictionaries
-        - [ ] 5. Advanced Lists
-        - [ ] 6. Advanced Python Objects Assessment Test
-        - [ ] 7. Advanced Python Objects Test - Solutions
+    - [x] **20 Advanced Python Objects and Data Structures**
+        - [x] 1. Advanced Numbers
+        - [x] 2. Advanced Strings
+        - [x] 3. Advanced Sets
+        - [x] 4. Advanced Dictionaries
+        - [x] 5. Advanced Lists
+        - [x] 6. Advanced Python Objects Assessment Test
+        - [x] 7. Advanced Python Objects Test - Solutions
         
 #### Be Proficient in Data Analytics
 
