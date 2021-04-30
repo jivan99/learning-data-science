@@ -162,17 +162,17 @@
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
     - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
       - [ ] ***Week 1 (Introducing data analytics)***
-        - [ ] **01 Start The Program**
-          - [ ] Video: Welcome to the Google Data Analytics Certificate
-          - [ ] Reading: Program description and course syllabus
-          - [ ] Practice Quiz: Activity: Create a data journal
-          - [ ] Video: Introduction to the course
-          - [ ] Reading: Helpful resources to get started 
-          - [ ] Discussion Prompt: Meet and greet
-          - [ ] Your data analytics certificate roadmap
-          - [ ] Reading: Deciding if you should take the speed track
-          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz
-          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [x] **01 Start The Program**
+          - [x] Video: Welcome to the Google Data Analytics Certificate
+          - [x] Reading: Program description and course syllabus
+          - [x] Practice Quiz: Activity: Create a data journal
+          - [x] Video: Introduction to the course
+          - [x] Reading: Helpful resources to get started 
+          - [x] Discussion Prompt: Meet and greet
+          - [x] Your data analytics certificate roadmap
+          - [x] Reading: Deciding if you should take the speed track
+          - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz
+          - [x] Reading: Optional: Your diagnostic quiz score and what it means
         - [ ] **02 Transforming data into insights**
           - [ ] Video: Data analytics in everyday life
           - [ ] Reading: Case Study: New data perspectives
