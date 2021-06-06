@@ -184,15 +184,15 @@
           - [x] Reading: Data and gut instinct
           - [x] Reading: Origins of the data analysis process
           - [x] Practice Quiz: Test your knowledge on the data ecosystem
-        - [ ] **04 Getting to know the program expectations**
-          - [ ] Video: What to expect moving forward
-          - [ ] Commit to completing the program
-          - [ ] Reading: Program surveys
-          - [ ] Google Data Analytics Participant Entry Survey
-          - [ ] Reading: Discussion forums
-          - [ ] Reading: Get to know your classmates
-          - [ ] Discussion Prompt: Meet and greet
-          - [ ] Practice Quiz: Get to know the program expectations
+        - [x] **04 Getting to know the program expectations**
+          - [x] Video: What to expect moving forward
+          - [x] Commit to completing the program
+          - [x] Reading: Program surveys
+          - [x] Google Data Analytics Participant Entry Survey
+          - [x] Reading: Discussion forums
+          - [x] Reading: Get to know your classmates
+          - [x] Discussion Prompt: Meet and greet
+          - [x] Practice Quiz: Get to know the program expectations
         - [ ] **05 Weekly challenge 1**
           - [ ] Reading: Glossary: Terms and definitions 
           - [ ] Quiz: *Weekly challenge 1*
