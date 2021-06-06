@@ -173,11 +173,11 @@
           - [x] Reading: Deciding if you should take the speed track
           - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz
           - [x] Reading: Optional: Your diagnostic quiz score and what it means
-        - [ ] **02 Transforming data into insights**
-          - [ ] Video: Data analytics in everyday life
-          - [ ] Reading: Case Study: New data perspectives
-          - [ ] Practice Quiz: Journal Entry:  Thoughts on the case
-          - [ ] Video: Cassie: Dimensions of data analytics
+        - [x] **02 Transforming data into insights**
+          - [x] Video: Data analytics in everyday life
+          - [x] Reading: Case Study: New data perspectives
+          - [x] Practice Quiz: Journal Entry:  Thoughts on the case
+          - [x] Video: Cassie: Dimensions of data analytics
         - [ ] **03 Understanding the data ecosystem**
           - [ ] Video: What is the data ecosystem? 
           - [ ] Video: How data informs better decisions
