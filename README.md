@@ -178,12 +178,12 @@
           - [x] Reading: Case Study: New data perspectives
           - [x] Practice Quiz: Journal Entry:  Thoughts on the case
           - [x] Video: Cassie: Dimensions of data analytics
-        - [ ] **03 Understanding the data ecosystem**
-          - [ ] Video: What is the data ecosystem? 
-          - [ ] Video: How data informs better decisions
-          - [ ] Reading: Data and gut instinct
-          - [ ] Reading: Origins of the data analysis process
-          - [ ] Practice Quiz: Test your knowledge on the data ecosystem
+        - [x] **03 Understanding the data ecosystem**
+          - [x] Video: What is the data ecosystem? 
+          - [x] Video: How data informs better decisions
+          - [x] Reading: Data and gut instinct
+          - [x] Reading: Origins of the data analysis process
+          - [x] Practice Quiz: Test your knowledge on the data ecosystem
         - [ ] **04 Getting to know the program expectations**
           - [ ] Video: What to expect moving forward
           - [ ] Commit to completing the program
