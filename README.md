@@ -193,9 +193,9 @@
           - [x] Reading: Get to know your classmates
           - [x] Discussion Prompt: Meet and greet
           - [x] Practice Quiz: Get to know the program expectations
-        - [ ] **05 Weekly challenge 1**
-          - [ ] Reading: Glossary: Terms and definitions 
-          - [ ] Quiz: *Weekly challenge 1*
+        - [x] **05 Weekly challenge 1**
+          - [x] Reading: Glossary: Terms and definitions 
+          - [x] Quiz: *Weekly challenge 1*
       - [ ] ***Week 2 (Thinking analytically)***
         - [ ] **01 Introducing analytical thinking**
           - [ ] Video: Discovering data skillsets
