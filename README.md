@@ -166,10 +166,10 @@
       - [ ] ***Week 3 (Exploring the wonderful world of data)***
         - [x] **01 Introducing data fundamentals**
           - [x] Video: Learning about data phases and tools
-        - [ ] **02 Following the data life cycle**
-          - [ ] Video: Phases of the data life cycle
-          - [ ] Practice Quiz: Self-Reflection: Collecting data
-          - [ ] Practice Quiz: Test your knowledge on the data life cycle
+        - [x] **02 Following the data life cycle**
+          - [x] Video: Phases of the data life cycle
+          - [x] Practice Quiz: Self-Reflection: Collecting data
+          - [x] Practice Quiz: Test your knowledge on the data life cycle
         - [ ] **03 Outlining the data analysis process**
           - [ ] Video: Six steps of data analysis
           - [ ] Reading: The data analysis process and this program
