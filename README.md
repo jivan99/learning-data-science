@@ -181,9 +181,9 @@
           - [x] Video: Real-world data magic
           - [x] Discussion Prompt: More about you
           - [x] Practice Quiz: Test your knowledge on outcomes
-        - [ ] **05 Weekly Challenge 2**
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 2*
+        - [x] **05 Weekly Challenge 2**
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 2*
       - [ ] ***Week 3 (Exploring the wonderful world of data)***
         - [ ] **01 Introducing data fundamentals**
           - [ ] Video: Learning about data phases and tools
