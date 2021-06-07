@@ -163,8 +163,8 @@
     - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
       - [x] ***Week 1 (Introducing data analytics)***
       - [ ] ***Week 2 (Thinking analytically)***
-        - [ ] **01 Introducing analytical thinking**
-          - [ ] Video: Discovering data skillsets
+        - [x] **01 Introducing analytical thinking**
+          - [x] Video: Discovering data skillsets
         - [ ] **02 Embracing data analyst skills**
           - [ ] Video: Key data analyst skills
           - [ ] Practice Quiz: Get a read on your analytical skills
