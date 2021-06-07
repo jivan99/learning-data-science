@@ -170,12 +170,12 @@
           - [x] Practice Quiz: Get a read on your analytical skills
           - [x] Practice Quiz: Journal Entry: Data in your everyday life
           - [x] Test your knowledge on data analyst skills 
-        - [ ] **03 Thinking about analytical thinking**
-          - [ ] Video: All about thinking analytically 
-          - [ ] Practice Quiz: Self-Reflection: What you bring to the table
-          - [ ] Video: Exploring core analytical skills
-          - [ ] Practice Quiz: Journal Entry: Personal expectations
-          - [ ] Practice Quiz: Test your knowledge on analytical thinking
+        - [x] **03 Thinking about analytical thinking**
+          - [x] Video: All about thinking analytically 
+          - [x] Practice Quiz: Self-Reflection: What you bring to the table
+          - [x] Video: Exploring core analytical skills
+          - [x] Practice Quiz: Journal Entry: Personal expectations
+          - [x] Practice Quiz: Test your knowledge on analytical thinking
         - [ ] **04 Thinking about the outcomes**
           - [ ] Video: Using data to drive successful outcomes 
           - [ ] Video: Real-world data magic
