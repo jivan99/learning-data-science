@@ -176,11 +176,11 @@
           - [x] Video: Exploring core analytical skills
           - [x] Practice Quiz: Journal Entry: Personal expectations
           - [x] Practice Quiz: Test your knowledge on analytical thinking
-        - [ ] **04 Thinking about the outcomes**
-          - [ ] Video: Using data to drive successful outcomes 
-          - [ ] Video: Real-world data magic
-          - [ ] Discussion Prompt: More about you
-          - [ ] Practice Quiz: Test your knowledge on outcomes
+        - [x] **04 Thinking about the outcomes**
+          - [x] Video: Using data to drive successful outcomes 
+          - [x] Video: Real-world data magic
+          - [x] Discussion Prompt: More about you
+          - [x] Practice Quiz: Test your knowledge on outcomes
         - [ ] **05 Weekly Challenge 2**
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 2*
