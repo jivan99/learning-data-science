@@ -164,8 +164,8 @@
       - [x] ***Week 1 (Introducing data analytics)***
       - [x] ***Week 2 (Thinking analytically)***
       - [ ] ***Week 3 (Exploring the wonderful world of data)***
-        - [ ] **01 Introducing data fundamentals**
-          - [ ] Video: Learning about data phases and tools
+        - [x] **01 Introducing data fundamentals**
+          - [x] Video: Learning about data phases and tools
         - [ ] **02 Following the data life cycle**
           - [ ] Video: Phases of the data life cycle
           - [ ] Practice Quiz: Self-Reflection: Collecting data
