@@ -165,11 +165,11 @@
       - [ ] ***Week 2 (Thinking analytically)***
         - [x] **01 Introducing analytical thinking**
           - [x] Video: Discovering data skillsets
-        - [ ] **02 Embracing data analyst skills**
-          - [ ] Video: Key data analyst skills
-          - [ ] Practice Quiz: Get a read on your analytical skills
-          - [ ] Practice Quiz: Journal Entry: Data in your everyday life
-          - [ ] Test your knowledge on data analyst skills 
+        - [x] **02 Embracing data analyst skills**
+          - [x] Video: Key data analyst skills
+          - [x] Practice Quiz: Get a read on your analytical skills
+          - [x] Practice Quiz: Journal Entry: Data in your everyday life
+          - [x] Test your knowledge on data analyst skills 
         - [ ] **03 Thinking about analytical thinking**
           - [ ] Video: All about thinking analytically 
           - [ ] Practice Quiz: Self-Reflection: What you bring to the table
