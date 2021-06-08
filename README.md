@@ -170,13 +170,13 @@
           - [x] Video: Phases of the data life cycle
           - [x] Practice Quiz: Self-Reflection: Collecting data
           - [x] Practice Quiz: Test your knowledge on the data life cycle
-        - [ ] **03 Outlining the data analysis process**
-          - [ ] Video: Six steps of data analysis
-          - [ ] Reading: The data analysis process and this program
-          - [ ] Video: Molly: Example of the data process
-          - [ ] Practice Quiz: Journal Entry: Organizing data
-          - [ ] Discussion Prompt: Important stages in the process
-          - [ ] Practice Quiz: Test your knowledge on the data analysis process
+        - [x] **03 Outlining the data analysis process**
+          - [x] Video: Six steps of data analysis
+          - [x] Reading: The data analysis process and this program
+          - [x] Video: Molly: Example of the data process
+          - [x] Practice Quiz: Journal Entry: Organizing data
+          - [x] Discussion Prompt: Important stages in the process
+          - [x] Practice Quiz: Test your knowledge on the data analysis process
         - [ ] **04 The data analysis toolbox**
           - [ ] Video: Exploring data analyst tools
           - [ ] Reading: Key data analyst tools
