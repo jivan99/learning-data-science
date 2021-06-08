@@ -174,12 +174,12 @@
           - [x] Reading: More spreadsheet resources
           - [x] Discussion Prompt: Share your chart
           - [x] Practice Quiz: Test your knowledge on spreadsheet basics
-        - [ ] **03 Learn about Structured Query Language (SQL)**
-          - [ ] Video: SQL in action
-          - [ ] Reading: More about SQL in action
-          - [ ] Reading: SQL Guide: Getting started
-          - [ ] Video: Angie: Everyday struggles when learning new skills
-          - [ ] Practice Quiz: Test your knowledge on SQL
+        - [x] **03 Learn about Structured Query Language (SQL)**
+          - [x] Video: SQL in action
+          - [x] Reading: More about SQL in action
+          - [x] Reading: SQL Guide: Getting started
+          - [x] Video: Angie: Everyday struggles when learning new skills
+          - [x] Practice Quiz: Test your knowledge on SQL
         - [ ] **04 Visualizing the data**
           - [ ] Video: Becoming a data viz whiz
           - [ ] Reading: Planning a data visualization
