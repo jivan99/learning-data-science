@@ -183,9 +183,9 @@
           - [x] Reading: Choosing the right tool for the job
           - [x] Practice Quiz: Self-Reflection: Reviewing past concepts
           - [x] Practice Quiz: Test your knowledge on the data analysis toolbox
-        - [ ] **05 Weekly challenge 3**
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 3*
+        - [x] **05 Weekly challenge 3**
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 3*
       - [ ] ***Week 4 (Setting up a data toolbox)***
         - [ ] **01 Introducing more about core data tools**
           - [ ] Video: The ins and outs of core data tools
