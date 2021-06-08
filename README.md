@@ -165,8 +165,8 @@
       - [x] ***Week 2 (Thinking analytically)***
       - [x] ***Week 3 (Exploring the wonderful world of data)***
       - [ ] ***Week 4 (Setting up a data toolbox)***
-        - [ ] **01 Introducing more about core data tools**
-          - [ ] Video: The ins and outs of core data tools
+        - [x] **01 Introducing more about core data tools**
+          - [x] Video: The ins and outs of core data tools
         - [ ] **02 Mastering spreadsheet basics**
           - [ ] Video: Columns and rows and cells, oh my!
           - [ ] Discussion Prompt: Spreadsheets in daily life
