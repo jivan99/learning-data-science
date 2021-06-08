@@ -167,13 +167,13 @@
       - [ ] ***Week 4 (Setting up a data toolbox)***
         - [x] **01 Introducing more about core data tools**
           - [x] Video: The ins and outs of core data tools
-        - [ ] **02 Mastering spreadsheet basics**
-          - [ ] Video: Columns and rows and cells, oh my!
-          - [ ] Discussion Prompt: Spreadsheets in daily life
-          - [ ] Practice Quiz: Hands-On Activity: Generating a chart from a spreadsheet
-          - [ ] Reading: More spreadsheet resources
-          - [ ] Discussion Prompt: Share your chart
-          - [ ] Practice Quiz: Test your knowledge on spreadsheet basics
+        - [x] **02 Mastering spreadsheet basics**
+          - [x] Video: Columns and rows and cells, oh my!
+          - [x] Discussion Prompt: Spreadsheets in daily life
+          - [x] Practice Quiz: Hands-On Activity: Generating a chart from a spreadsheet
+          - [x] Reading: More spreadsheet resources
+          - [x] Discussion Prompt: Share your chart
+          - [x] Practice Quiz: Test your knowledge on spreadsheet basics
         - [ ] **03 Learn about Structured Query Language (SQL)**
           - [ ] Video: SQL in action
           - [ ] Reading: More about SQL in action
