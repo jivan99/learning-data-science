@@ -177,12 +177,12 @@
           - [x] Practice Quiz: Journal Entry: Organizing data
           - [x] Discussion Prompt: Important stages in the process
           - [x] Practice Quiz: Test your knowledge on the data analysis process
-        - [ ] **04 The data analysis toolbox**
-          - [ ] Video: Exploring data analyst tools
-          - [ ] Reading: Key data analyst tools
-          - [ ] Reading: Choosing the right tool for the job
-          - [ ] Practice Quiz: Self-Reflection: Reviewing past concepts
-          - [ ] Practice Quiz: Test your knowledge on the data analysis toolbox
+        - [x] **04 The data analysis toolbox**
+          - [x] Video: Exploring data analyst tools
+          - [x] Reading: Key data analyst tools
+          - [x] Reading: Choosing the right tool for the job
+          - [x] Practice Quiz: Self-Reflection: Reviewing past concepts
+          - [x] Practice Quiz: Test your knowledge on the data analysis toolbox
         - [ ] **05 Weekly challenge 3**
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 3*
