@@ -180,12 +180,12 @@
           - [x] Reading: SQL Guide: Getting started
           - [x] Video: Angie: Everyday struggles when learning new skills
           - [x] Practice Quiz: Test your knowledge on SQL
-        - [ ] **04 Visualizing the data**
-          - [ ] Video: Becoming a data viz whiz
-          - [ ] Reading: Planning a data visualization
-          - [ ] Video: Lilah: The power of a visualization
-          - [ ] Discussion Prompt: Visualizations in daily life
-          - [ ] Practice Quiz: Test your knowledge on visualizing data
+        - [x] **04 Visualizing the data**
+          - [x] Video: Becoming a data viz whiz
+          - [x] Reading: Planning a data visualization
+          - [x] Video: Lilah: The power of a visualization
+          - [x] Discussion Prompt: Visualizations in daily life
+          - [x] Practice Quiz: Test your knowledge on visualizing data
         - [ ] **05 Introducing Qwiklabs**
           - [ ] Video: Evan: How to access Qwiklabs
           - [ ] Video: Evan: Welcome to Qwiklabs
