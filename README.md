@@ -175,10 +175,10 @@
           - [x] Video: Tony: Supporting careers in data analytics
           - [x] Practice Quiz: Journal Entry: Identifying trends
           - [x] Test your knowledge on data analyst roles
-        - [ ] **03 Making decisions with data**
-          - [ ] Video: The power of data in business
-          - [ ] Video: Rachel: Data detectives
-          - [ ] Practice Quiz: Test your knowledge on making decisions with data
+        - [x] **03 Making decisions with data**
+          - [x] Video: The power of data in business
+          - [x] Video: Rachel: Data detectives
+          - [x] Practice Quiz: Test your knowledge on making decisions with data
         - [ ] **04 Defining fairness in data**
           - [ ] Video: Understanding data and fairness
           - [ ] Practice Quiz: Self-Reflection: Business cases
