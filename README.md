@@ -190,9 +190,9 @@
           - [x] Reading: Data analyst roles and job descriptions
           - [x] Video: Samah: Data interview best practices
           - [x] Reading: "Beyond the Numbers," a data journey
-        - [ ] **06 Weekly challenge 5**
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 5*
+        - [x] **06 Weekly challenge 5**
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 5*
         - [ ] **07 Course challenge**
           - [ ] Video: Weekly wrap-up
           - [ ] Quiz: *Course challenge*
