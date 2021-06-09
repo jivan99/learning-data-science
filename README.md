@@ -186,13 +186,13 @@
           - [x] Video: Lilah: The power of a visualization
           - [x] Discussion Prompt: Visualizations in daily life
           - [x] Practice Quiz: Test your knowledge on visualizing data
-        - [ ] **05 Introducing Qwiklabs**
-          - [ ] Video: Evan: How to access Qwiklabs
-          - [ ] Video: Evan: Welcome to Qwiklabs
-          - [ ] Reading: Step by step instructions for accessing Qwiklabs 
-          - [ ] Ungraded External Tool: Ungraded External ToolIntro to Qwiklabs
-          - [ ] Video: Evan: What to do when you're stuck in a Qwiklab
-          - [ ] Ungraded External Tool: Ungraded External ToolIntroduction to Google Drive
+        - [x] **05 Introducing Qwiklabs**
+          - [x] Video: Evan: How to access Qwiklabs
+          - [x] Video: Evan: Welcome to Qwiklabs
+          - [x] Reading: Step by step instructions for accessing Qwiklabs 
+          - [x] Ungraded External Tool: Ungraded External ToolIntro to Qwiklabs
+          - [x] Video: Evan: What to do when you're stuck in a Qwiklab
+          - [x] Ungraded External Tool: Ungraded External ToolIntroduction to Google Drive
         - [ ] **06 Weekly Challenge**
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 4*
