@@ -179,12 +179,12 @@
           - [x] Video: The power of data in business
           - [x] Video: Rachel: Data detectives
           - [x] Practice Quiz: Test your knowledge on making decisions with data
-        - [ ] **04 Defining fairness in data**
-          - [ ] Video: Understanding data and fairness
-          - [ ] Practice Quiz: Self-Reflection: Business cases
-          - [ ] Discussion Prompt: Case opinion
-          - [ ] Video: Alex: Fair and ethical data decisions
-          - [ ] Practice Quiz: Test your knowledge on fairness in data 
+        - [x] **04 Defining fairness in data**
+          - [x] Video: Understanding data and fairness
+          - [x] Practice Quiz: Self-Reflection: Business cases
+          - [x] Discussion Prompt: Case opinion
+          - [x] Video: Alex: Fair and ethical data decisions
+          - [x] Practice Quiz: Test your knowledge on fairness in data 
         - [ ] **05 Optional: Exploring your next job**
           - [ ] Video: Data analysts in different industries
           - [ ] Reading: Data analyst roles and job descriptions
