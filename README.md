@@ -193,11 +193,11 @@
         - [x] **06 Weekly challenge 5**
           - [x] Reading: Glossary: Terms and definitions
           - [x] Quiz: *Weekly challenge 5*
-        - [ ] **07 Course challenge**
-          - [ ] Video: Weekly wrap-up
-          - [ ] Quiz: *Course challenge*
-          - [ ] Video: Congrats! Course wrap-up 
-          - [ ] Reading: Coming up next...
+        - [x] **07 Course challenge**
+          - [x] Video: Weekly wrap-up
+          - [x] Quiz: *Course challenge*
+          - [x] Video: Congrats! Course wrap-up 
+          - [x] Reading: Coming up next...
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
