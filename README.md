@@ -193,9 +193,9 @@
           - [x] Ungraded External Tool: Ungraded External ToolIntro to Qwiklabs
           - [x] Video: Evan: What to do when you're stuck in a Qwiklab
           - [x] Ungraded External Tool: Ungraded External ToolIntroduction to Google Drive
-        - [ ] **06 Weekly Challenge**
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 4*
+        - [x] **06 Weekly Challenge**
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 4*
       - [ ] ***Week 5 (Discovering data career possibilities)***
         - [ ] **01 Introducing data analyst career possibilities**
           - [ ] Video: Let's get down to business
