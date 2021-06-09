@@ -168,13 +168,13 @@
       - [ ] ***Week 5 (Discovering data career possibilities)***
         - [x] **01 Introducing data analyst career possibilities**
           - [x] Video: Let's get down to business
-        - [ ] **02 Learn about data analyst job opportunities**
-          - [ ] Video: The job of a data analyst
-          - [ ] Video: Joey: Path to becoming a data analyst
-          - [ ] Practice Quiz: Self-Reflection: Business use of data
-          - [ ] Video: Tony: Supporting careers in data analytics
-          - [ ] Practice Quiz: Journal Entry: Identifying trends
-          - [ ] Test your knowledge on data analyst roles
+        - [x] **02 Learn about data analyst job opportunities**
+          - [x] Video: The job of a data analyst
+          - [x] Video: Joey: Path to becoming a data analyst
+          - [x] Practice Quiz: Self-Reflection: Business use of data
+          - [x] Video: Tony: Supporting careers in data analytics
+          - [x] Practice Quiz: Journal Entry: Identifying trends
+          - [x] Test your knowledge on data analyst roles
         - [ ] **03 Making decisions with data**
           - [ ] Video: The power of data in business
           - [ ] Video: Rachel: Data detectives
