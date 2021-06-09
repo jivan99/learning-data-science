@@ -160,12 +160,7 @@
 #### Be Proficient in Data Analytics
 
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-    - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
-      - [x] ***Week 1 (Introducing data analytics)***
-      - [x] ***Week 2 (Thinking analytically)***
-      - [x] ***Week 3 (Exploring the wonderful world of data)***
-      - [x] ***Week 4 (Setting up a data toolbox)***
-      - [x] ***Week 5 (Discovering data career possibilities)***
+    - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
