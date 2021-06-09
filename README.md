@@ -166,8 +166,8 @@
       - [x] ***Week 3 (Exploring the wonderful world of data)***
       - [x] ***Week 4 (Setting up a data toolbox)***
       - [ ] ***Week 5 (Discovering data career possibilities)***
-        - [ ] **01 Introducing data analyst career possibilities**
-          - [ ] Video: Let's get down to business
+        - [x] **01 Introducing data analyst career possibilities**
+          - [x] Video: Let's get down to business
         - [ ] **02 Learn about data analyst job opportunities**
           - [ ] Video: The job of a data analyst
           - [ ] Video: Joey: Path to becoming a data analyst
