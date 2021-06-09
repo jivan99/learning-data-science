@@ -185,11 +185,11 @@
           - [x] Discussion Prompt: Case opinion
           - [x] Video: Alex: Fair and ethical data decisions
           - [x] Practice Quiz: Test your knowledge on fairness in data 
-        - [ ] **05 Optional: Exploring your next job**
-          - [ ] Video: Data analysts in different industries
-          - [ ] Reading: Data analyst roles and job descriptions
-          - [ ] Video: Samah: Data interview best practices
-          - [ ] Reading: "Beyond the Numbers," a data journey
+        - [x] **05 Optional: Exploring your next job**
+          - [x] Video: Data analysts in different industries
+          - [x] Reading: Data analyst roles and job descriptions
+          - [x] Video: Samah: Data interview best practices
+          - [x] Reading: "Beyond the Numbers," a data journey
         - [ ] **06 Weekly challenge 5**
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 5*
