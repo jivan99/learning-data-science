@@ -177,7 +177,7 @@
   - [x] 3. Your First Machine Learning Model
   - [x] 4. Model Validation
   - [x] 5. Underfitting and Overfitting
-  - [ ] 6. Random Forests
+  - [x] 6. Random Forests
   - [ ] 7. Machine Learning Competitions
   - [ ] Bonus Lesson: Intro to AutoML
 - [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
