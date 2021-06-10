@@ -176,7 +176,7 @@
   - [x] 2. Basic Data Exploration
   - [x] 3. Your First Machine Learning Model
   - [x] 4. Model Validation
-  - [ ] 5. Underfitting and Overfitting
+  - [x] 5. Underfitting and Overfitting
   - [ ] 6. Random Forests
   - [ ] 7. Machine Learning Competitions
   - [ ] Bonus Lesson: Intro to AutoML
