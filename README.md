@@ -171,15 +171,7 @@
 
 #### Be Proficient in Machine Learning
 
-- [ ] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-  - [x] 1. How Models Work
-  - [x] 2. Basic Data Exploration
-  - [x] 3. Your First Machine Learning Model
-  - [x] 4. Model Validation
-  - [x] 5. Underfitting and Overfitting
-  - [x] 6. Random Forests
-  - [x] 7. Machine Learning Competitions
-  - [x] Bonus Lesson: Intro to AutoML
+- [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
