@@ -172,7 +172,7 @@
 #### Be Proficient in Machine Learning
 
 - [ ] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-  - [ ] 1. How Models Work
+  - [x] 1. How Models Work
   - [ ] 2. Basic Data Exploration
   - [ ] 3. Your First Machine Learning Model
   - [ ] 4. Model Validation
