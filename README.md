@@ -179,7 +179,7 @@
   - [x] 5. Underfitting and Overfitting
   - [x] 6. Random Forests
   - [x] 7. Machine Learning Competitions
-  - [ ] Bonus Lesson: Intro to AutoML
+  - [x] Bonus Lesson: Intro to AutoML
 - [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
