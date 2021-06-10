@@ -168,3 +168,32 @@
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
     - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
     - [ ] [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+
+#### Be Proficient in Machine Learning
+
+- [ ] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+  - [ ] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+  - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+  - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+  - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+- [ ] [Coursera: Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+  - [ ] [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+  - [ ] [Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production)
+  - [ ] [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production)
+  - [ ] [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production)
+
+#### Get Hands-on with Data Science
+- [ ] [Coursera: Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+  - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+  - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+  - [ ] [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+  - [ ] [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
+  - [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+- [ ] [Coursera: Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science)
+  - [ ] [Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models)
+  - [ ] [Build, Train, and Deploy ML Pipelines using BERT](https://www.coursera.org/learn/ml-pipelines-bert)
+  - [ ] [Optimize ML Models and Deploy Human-in-the-Loop Pipelines](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines)
