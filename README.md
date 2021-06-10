@@ -173,6 +173,13 @@
 
 - [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+  - [ ] 1. Introduction
+  - [ ] 2. Missing Values
+  - [ ] 3. Categorical Variables
+  - [ ] 4. Pipelines
+  - [ ] 5. Cross-Validation
+  - [ ] 6. XGBoost
+  - [ ] 7. Data Leakage
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
   - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
