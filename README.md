@@ -179,7 +179,7 @@
   - [x] 4. Pipelines
   - [x] 5. Cross-Validation
   - [x] 6. XGBoost
-  - [ ] 7. Data Leakage
+  - [x] 7. Data Leakage
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
   - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
