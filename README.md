@@ -178,7 +178,7 @@
   - [x] 3. Categorical Variables
   - [x] 4. Pipelines
   - [x] 5. Cross-Validation
-  - [ ] 6. XGBoost
+  - [x] 6. XGBoost
   - [ ] 7. Data Leakage
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
