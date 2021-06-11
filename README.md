@@ -174,7 +174,7 @@
 - [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [x] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-  - [ ] [1. A Gentle Introduction to Machine Learning `12:45`](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
+  - [x] [1. A Gentle Introduction to Machine Learning `12:45`](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
   - [ ] [2. Machine Learning Fundamentals: Cross Validation `6:05`](https://www.youtube.com/watch?v=fSytzGwwBVw)
   - [ ] [3. Machine Learning Fundamentals: The Confusion Matrix `7:13`](https://www.youtube.com/watch?v=Kdsp6soqA7o)
   - [ ] [4. Machine Learning Fundamentals: Sensitivity and Specificity `11:47`](https://www.youtube.com/watch?v=vP06aMoz4v8)
