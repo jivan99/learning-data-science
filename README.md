@@ -172,14 +172,7 @@
 #### Be Proficient in Machine Learning
 
 - [x] [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-  - [x] 1. Introduction
-  - [x] 2. Missing Values
-  - [x] 3. Categorical Variables
-  - [x] 4. Pipelines
-  - [x] 5. Cross-Validation
-  - [x] 6. XGBoost
-  - [x] 7. Data Leakage
+- [x] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [ ] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
   - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
