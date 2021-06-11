@@ -175,7 +175,7 @@
 - [ ] [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
   - [x] 1. Introduction
   - [x] 2. Missing Values
-  - [ ] 3. Categorical Variables
+  - [x] 3. Categorical Variables
   - [ ] 4. Pipelines
   - [ ] 5. Cross-Validation
   - [ ] 6. XGBoost
