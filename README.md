@@ -177,7 +177,7 @@
   - [x] [1. A Gentle Introduction to Machine Learning `12:45`](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
   - [x] [2. Machine Learning Fundamentals: Cross Validation `6:05`](https://www.youtube.com/watch?v=fSytzGwwBVw)
   - [x] [3. Machine Learning Fundamentals: The Confusion Matrix `7:13`](https://www.youtube.com/watch?v=Kdsp6soqA7o)
-  - [ ] [4. Machine Learning Fundamentals: Sensitivity and Specificity `11:47`](https://www.youtube.com/watch?v=vP06aMoz4v8)
+  - [x] [4. Machine Learning Fundamentals: Sensitivity and Specificity `11:47`](https://www.youtube.com/watch?v=vP06aMoz4v8)
   - [ ] [5. Machine Learning Fundamentals: Bias and Variance `6:36`](https://www.youtube.com/watch?v=EuBBz3bI-aA)
   - [ ] [6. ROC and AUC, Clearly Explained! `16:17`](https://www.youtube.com/watch?v=4jRBRDbJemM)
   - [ ] [7. ROC and AUC in R `15:13`](https://www.youtube.com/watch?v=qcvAqAH60Yw)
