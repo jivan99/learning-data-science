@@ -162,6 +162,126 @@
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
+      - [ ] **Week 1 (Effective questions)**
+        - [ ] 01 Problem-solving and effective questioning 
+          - [ ] Video: Introduction to problem-solving and effective questioning 
+          - [ ] Reading: Course syllabus
+          - [ ] Reading: Learning Log: Consider what data means to you
+          - [ ] Discussion Prompt: Meet and greet 
+          - [ ] Refresher: Your data analytics certificate roadmap
+          - [ ] Reading: Deciding if you should take the speed track
+          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
+          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [ ] 02 Take action with data
+          - [ ] Video: Data in action
+          - [ ] Reading: From issue to action: The six data analysis phases
+          - [ ] Video: Nikki: The data process works
+          - [ ] Practice Quiz: Test your knowledge on taking action with data
+        - [ ] 03 Solve problems with data
+          - [ ] Video: Common problem types
+          - [ ] Reading: Six problem types
+          - [ ] Video: Anmol: From hypothesis to outcome
+          - [ ] Practice Quiz: Test your knowledge on solving problems with data
+        - [ ] 04 Craft effective questions
+          - [ ] Video: SMART questions
+          - [ ] Reading: More about SMART questions
+          - [ ] Practice Quiz: Self-Reflection: Data analyst scenarios
+          - [ ] Video: Evan: Data opens doors
+          - [ ] Practice Quiz: Self-Reflection: Ask your own SMART questions
+          - [ ] Discussion Prompt: What your questions revealed
+          - [ ] Practice Quiz: Test your knowledge on crafting effective questions
+        - [ ] 05 *Weekly challenge 1*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 1*
+      - [ ] **Week 2 (Data-driven decisions )**
+        - [ ] 01 Understand the power of data
+          - [ ] Video: Data and decisions
+          - [ ] Video: How data empowers decisions
+          - [ ] Reading: Data trials and triumphs
+          - [ ] Discussion Prompt: Using data in everyday life
+          - [ ] Video: Qualitative and quantitative data
+          - [ ] Reading: Qualitative and quantitative data in business
+          - [ ] Reading: Learning Log: Ask SMART questions about real-life data sources
+          - [ ] Practice Quiz: Test your knowledge on the power of data 
+        - [ ] 02 Follow the evidence
+          - [ ] Video: The big reveal: Sharing your findings
+          - [ ] Video: Data versus metrics
+          - [ ] Reading: Designing compelling dashboards
+          - [ ] Practice Quiz: Self-Reflection: Dive deeper into dashboards
+          - [ ] Practice Quiz: Test your knowledge on following the evidence
+        - [ ] 03 Connecting the data dots
+          - [ ] Video: Mathematical thinking
+          - [ ] Reading: Big and small data
+          - [ ] Practice Quiz: Test your knowledge on connecting the data dots
+        - [ ] 04 *Weekly challenge 2*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 2*
+      - [ ] **Week 3 (More spreadsheet basics )**
+        - [ ] 01 Working with spreadsheets 
+          - [ ] Video: The amazing spreadsheet
+          - [ ] Video: Get to work with spreadsheets
+          - [ ] Reading: Spreadsheets and the data life cycle
+          - [ ] Video: Optional Refresher: Get ready for Qwiklabs
+          - [ ] Reading: Optional Refresher: Instructions for accessing Qwiklabs  
+          - [ ] Ungraded External Tool: Ungraded External ToolIntroduction to Google Sheets
+          - [ ] Video: Step-by-step in spreadsheets
+          - [ ] Reading: Learn more about spreadsheet basics 
+          - [ ] Practice Quiz: Test your knowledge on working with spreadsheets
+        - [ ] 02 Formulas in speadsheets
+          - [ ] Video: Formulas for success
+          - [ ] Reading: Quick reference: Formulas in spreadsheets
+          - [ ] Reading: Spreadsheet errors and fixes
+          - [ ] Practice Quiz: Test your knowledge on using formulas in spreadsheets
+        - [ ] 03 Functions in spreadsheets
+          - [ ] Video: Functions 101
+          - [ ] Reading: Quick reference: Functions in spreadsheets
+          - [ ] Video: Optional Refresher: Get ready for Qwiklabs
+          - [ ] Ungraded External Tool: Ungraded External ToolQwiklab: Spreadsheet basics
+          - [ ] Practice Quiz: Test your knowledge on using functions in spreadsheets
+        - [ ] 04 Save time with structured thinking
+          - [ ] Video: Before solving a problem, understand it
+          - [ ] Video: Scope of work and structured thinking
+          - [ ] Practice Quiz: Hands-On Activity: Create a scope of work
+          - [ ] Video: Staying objective
+          - [ ] Reading: The importance of context
+          - [ ] Reading: Learning Log: Define problems and ask questions with data
+          - [ ] Practice Quiz: Test your knowledge on structured thinking
+        - [ ] 05 *Weekly challenge 3*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 3*
+      - [ ] **Week 4 (Always remember the stakeholder)**
+        - [ ] 01 Balance team and stakeholder needs
+          - [ ] Video: Communicating with your team
+          - [ ] Video: Balancing needs and expectations across your team
+          - [ ] Reading: Working with stakeholders
+          - [ ] Video: Focus on what matters
+          - [ ] Practice Quiz: Test your knowledge on balancing team and stakeholder needs
+        - [ ] 02 Communication is key
+          - [ ] Video: Clear communication is key 
+          - [ ] Video: Tips for effective communication
+          - [ ] Reading: Data scenarios and responses
+          - [ ] Video: Balancing expectations and realistic project goals
+          - [ ] Video: Sarah: How to communicate with stakeholders
+          - [ ] Video: The data tradeoff: Speed versus accuracy
+          - [ ] Reading: Limitations of data
+          - [ ] Video: Think about your process and outcome
+          - [ ] Practice Quiz: Test your knowledge on clear communication
+        - [ ] 03 Amazing teamwork
+          - [ ] Video: Meeting best practices
+          - [ ] Video: Ximena: Joining a new team
+          - [ ] Reading: Leading great meetings
+          - [ ] Video: From conflict to collaboration
+          - [ ] Discussion Prompt: Communicating challenges
+          - [ ] Video: Nathan: From the U.S. Marine Corps to data analytics
+          - [ ] Practice Quiz: Test your knowledge on teamwork
+        - [ ] 04 *Weekly challenge 4*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 4*
+        - [ ] 05 *Course challenge*
+          - [ ] Video: Course wrap-up
+          - [ ] Quiz: *Course challenge*
+          - [ ] Video: Congratulations! 
+          - [ ] Reading: Coming up next...
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
