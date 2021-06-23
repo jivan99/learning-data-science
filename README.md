@@ -177,11 +177,11 @@
           - [x] Reading: From issue to action: The six data analysis phases
           - [x] Video: Nikki: The data process works
           - [x] Practice Quiz: Test your knowledge on taking action with data
-        - [ ] 03 Solve problems with data
-          - [ ] Video: Common problem types
-          - [ ] Reading: Six problem types
-          - [ ] Video: Anmol: From hypothesis to outcome
-          - [ ] Practice Quiz: Test your knowledge on solving problems with data
+        - [x] 03 Solve problems with data
+          - [x] Video: Common problem types
+          - [x] Reading: Six problem types
+          - [x] Video: Anmol: From hypothesis to outcome
+          - [x] Practice Quiz: Test your knowledge on solving problems with data
         - [ ] 04 Craft effective questions
           - [ ] Video: SMART questions
           - [ ] Reading: More about SMART questions
