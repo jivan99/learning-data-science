@@ -163,15 +163,15 @@
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
       - [ ] **Week 1 (Effective questions)**
-        - [ ] 01 Problem-solving and effective questioning 
-          - [ ] Video: Introduction to problem-solving and effective questioning 
-          - [ ] Reading: Course syllabus
-          - [ ] Reading: Learning Log: Consider what data means to you
-          - [ ] Discussion Prompt: Meet and greet 
-          - [ ] Refresher: Your data analytics certificate roadmap
-          - [ ] Reading: Deciding if you should take the speed track
-          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
-          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [x] 01 Problem-solving and effective questioning 
+          - [x] Video: Introduction to problem-solving and effective questioning 
+          - [x] Reading: Course syllabus
+          - [x] Reading: Learning Log: Consider what data means to you
+          - [x] Discussion Prompt: Meet and greet 
+          - [x] Refresher: Your data analytics certificate roadmap
+          - [x] Reading: Deciding if you should take the speed track
+          - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
+          - [x] Reading: Optional: Your diagnostic quiz score and what it means
         - [ ] 02 Take action with data
           - [ ] Video: Data in action
           - [ ] Reading: From issue to action: The six data analysis phases
