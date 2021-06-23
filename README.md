@@ -172,11 +172,11 @@
           - [x] Reading: Deciding if you should take the speed track
           - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
           - [x] Reading: Optional: Your diagnostic quiz score and what it means
-        - [ ] 02 Take action with data
-          - [ ] Video: Data in action
-          - [ ] Reading: From issue to action: The six data analysis phases
-          - [ ] Video: Nikki: The data process works
-          - [ ] Practice Quiz: Test your knowledge on taking action with data
+        - [x] 02 Take action with data
+          - [x] Video: Data in action
+          - [x] Reading: From issue to action: The six data analysis phases
+          - [x] Video: Nikki: The data process works
+          - [x] Practice Quiz: Test your knowledge on taking action with data
         - [ ] 03 Solve problems with data
           - [ ] Video: Common problem types
           - [ ] Reading: Six problem types
