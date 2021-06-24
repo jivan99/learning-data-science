@@ -164,15 +164,15 @@
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
       - [x] **Week 1 (Effective questions)**
       - [ ] **Week 2 (Data-driven decisions )**
-        - [ ] 01 Understand the power of data
-          - [ ] Video: Data and decisions
-          - [ ] Video: How data empowers decisions
-          - [ ] Reading: Data trials and triumphs
-          - [ ] Discussion Prompt: Using data in everyday life
-          - [ ] Video: Qualitative and quantitative data
-          - [ ] Reading: Qualitative and quantitative data in business
-          - [ ] Reading: Learning Log: Ask SMART questions about real-life data sources
-          - [ ] Practice Quiz: Test your knowledge on the power of data 
+        - [x] 01 Understand the power of data
+          - [x] Video: Data and decisions
+          - [x] Video: How data empowers decisions
+          - [x] Reading: Data trials and triumphs
+          - [x] Discussion Prompt: Using data in everyday life
+          - [x] Video: Qualitative and quantitative data
+          - [x] Reading: Qualitative and quantitative data in business
+          - [x] Reading: Learning Log: Ask SMART questions about real-life data sources
+          - [x] Practice Quiz: Test your knowledge on the power of data 
         - [ ] 02 Follow the evidence
           - [ ] Video: The big reveal: Sharing your findings
           - [ ] Video: Data versus metrics
