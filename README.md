@@ -190,9 +190,9 @@
           - [x] Practice Quiz: Self-Reflection: Ask your own SMART questions
           - [x] Discussion Prompt: What your questions revealed
           - [x] Practice Quiz: Test your knowledge on crafting effective questions
-        - [ ] 05 *Weekly challenge 1*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 1*
+        - [x] 05 *Weekly challenge 1*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 1*
       - [ ] **Week 2 (Data-driven decisions )**
         - [ ] 01 Understand the power of data
           - [ ] Video: Data and decisions
