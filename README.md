@@ -182,14 +182,14 @@
           - [x] Reading: Six problem types
           - [x] Video: Anmol: From hypothesis to outcome
           - [x] Practice Quiz: Test your knowledge on solving problems with data
-        - [ ] 04 Craft effective questions
-          - [ ] Video: SMART questions
-          - [ ] Reading: More about SMART questions
-          - [ ] Practice Quiz: Self-Reflection: Data analyst scenarios
-          - [ ] Video: Evan: Data opens doors
-          - [ ] Practice Quiz: Self-Reflection: Ask your own SMART questions
-          - [ ] Discussion Prompt: What your questions revealed
-          - [ ] Practice Quiz: Test your knowledge on crafting effective questions
+        - [x] 04 Craft effective questions
+          - [x] Video: SMART questions
+          - [x] Reading: More about SMART questions
+          - [x] Practice Quiz: Self-Reflection: Data analyst scenarios
+          - [x] Video: Evan: Data opens doors
+          - [x] Practice Quiz: Self-Reflection: Ask your own SMART questions
+          - [x] Discussion Prompt: What your questions revealed
+          - [x] Practice Quiz: Test your knowledge on crafting effective questions
         - [ ] 05 *Weekly challenge 1*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 1*
