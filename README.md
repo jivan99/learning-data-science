@@ -183,9 +183,9 @@
           - [x] Video: Mathematical thinking
           - [x] Reading: Big and small data
           - [x] Practice Quiz: Test your knowledge on connecting the data dots
-        - [ ] 04 *Weekly challenge 2*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 2*
+        - [x] 04 *Weekly challenge 2*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 2*
       - [ ] **Week 3 (More spreadsheet basics )**
         - [ ] 01 Working with spreadsheets 
           - [ ] Video: The amazing spreadsheet
