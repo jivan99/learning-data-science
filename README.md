@@ -173,12 +173,12 @@
           - [x] Reading: Qualitative and quantitative data in business
           - [x] Reading: Learning Log: Ask SMART questions about real-life data sources
           - [x] Practice Quiz: Test your knowledge on the power of data 
-        - [ ] 02 Follow the evidence
-          - [ ] Video: The big reveal: Sharing your findings
-          - [ ] Video: Data versus metrics
-          - [ ] Reading: Designing compelling dashboards
-          - [ ] Practice Quiz: Self-Reflection: Dive deeper into dashboards
-          - [ ] Practice Quiz: Test your knowledge on following the evidence
+        - [x] 02 Follow the evidence
+          - [x] Video: The big reveal: Sharing your findings
+          - [x] Video: Data versus metrics
+          - [x] Reading: Designing compelling dashboards
+          - [x] Practice Quiz: Self-Reflection: Dive deeper into dashboards
+          - [x] Practice Quiz: Test your knowledge on following the evidence
         - [ ] 03 Connecting the data dots
           - [ ] Video: Mathematical thinking
           - [ ] Reading: Big and small data
