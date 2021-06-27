@@ -179,10 +179,10 @@
           - [x] Reading: Designing compelling dashboards
           - [x] Practice Quiz: Self-Reflection: Dive deeper into dashboards
           - [x] Practice Quiz: Test your knowledge on following the evidence
-        - [ ] 03 Connecting the data dots
-          - [ ] Video: Mathematical thinking
-          - [ ] Reading: Big and small data
-          - [ ] Practice Quiz: Test your knowledge on connecting the data dots
+        - [x] 03 Connecting the data dots
+          - [x] Video: Mathematical thinking
+          - [x] Reading: Big and small data
+          - [x] Practice Quiz: Test your knowledge on connecting the data dots
         - [ ] 04 *Weekly challenge 2*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 2*
