@@ -163,18 +163,18 @@
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
       - [x] **Week 1 (Effective questions)**
-      - [x] **Week 2 (Data-driven decisions )**
-      - [ ] **Week 3 (More spreadsheet basics )**
-        - [ ] 01 Working with spreadsheets 
-          - [ ] Video: The amazing spreadsheet
-          - [ ] Video: Get to work with spreadsheets
-          - [ ] Reading: Spreadsheets and the data life cycle
-          - [ ] Video: Optional Refresher: Get ready for Qwiklabs
-          - [ ] Reading: Optional Refresher: Instructions for accessing Qwiklabs  
-          - [ ] Ungraded External Tool: Ungraded External ToolIntroduction to Google Sheets
-          - [ ] Video: Step-by-step in spreadsheets
-          - [ ] Reading: Learn more about spreadsheet basics 
-          - [ ] Practice Quiz: Test your knowledge on working with spreadsheets
+      - [x] **Week 2 (Data-driven decisions)**
+      - [ ] **Week 3 (More spreadsheet basics)**
+        - [x] 01 Working with spreadsheets 
+          - [x] Video: The amazing spreadsheet
+          - [x] Video: Get to work with spreadsheets
+          - [x] Reading: Spreadsheets and the data life cycle
+          - [x] Video: Optional Refresher: Get ready for Qwiklabs
+          - [x] Reading: Optional Refresher: Instructions for accessing Qwiklabs  
+          - [x] Ungraded External Tool: Ungraded External ToolIntroduction to Google Sheets
+          - [x] Video: Step-by-step in spreadsheets
+          - [x] Reading: Learn more about spreadsheet basics 
+          - [x] Practice Quiz: Test your knowledge on working with spreadsheets
         - [ ] 02 Formulas in speadsheets
           - [ ] Video: Formulas for success
           - [ ] Reading: Quick reference: Formulas in spreadsheets
