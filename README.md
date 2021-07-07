@@ -175,11 +175,11 @@
           - [x] Video: Step-by-step in spreadsheets
           - [x] Reading: Learn more about spreadsheet basics 
           - [x] Practice Quiz: Test your knowledge on working with spreadsheets
-        - [ ] 02 Formulas in speadsheets
-          - [ ] Video: Formulas for success
-          - [ ] Reading: Quick reference: Formulas in spreadsheets
-          - [ ] Reading: Spreadsheet errors and fixes
-          - [ ] Practice Quiz: Test your knowledge on using formulas in spreadsheets
+        - [x] 02 Formulas in speadsheets
+          - [x] Video: Formulas for success
+          - [x] Reading: Quick reference: Formulas in spreadsheets
+          - [x] Reading: Spreadsheet errors and fixes
+          - [x] Practice Quiz: Test your knowledge on using formulas in spreadsheets
         - [ ] 03 Functions in spreadsheets
           - [ ] Video: Functions 101
           - [ ] Reading: Quick reference: Functions in spreadsheets
