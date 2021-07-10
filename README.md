@@ -180,12 +180,12 @@
           - [x] Reading: Quick reference: Formulas in spreadsheets
           - [x] Reading: Spreadsheet errors and fixes
           - [x] Practice Quiz: Test your knowledge on using formulas in spreadsheets
-        - [ ] 03 Functions in spreadsheets
-          - [ ] Video: Functions 101
-          - [ ] Reading: Quick reference: Functions in spreadsheets
-          - [ ] Video: Optional Refresher: Get ready for Qwiklabs
-          - [ ] Ungraded External Tool: Ungraded External ToolQwiklab: Spreadsheet basics
-          - [ ] Practice Quiz: Test your knowledge on using functions in spreadsheets
+        - [x] 03 Functions in spreadsheets
+          - [x] Video: Functions 101
+          - [x] Reading: Quick reference: Functions in spreadsheets
+          - [x] Video: Optional Refresher: Get ready for Qwiklabs
+          - [x] Ungraded External Tool: Ungraded External ToolQwiklab: Spreadsheet basics
+          - [x] Practice Quiz: Test your knowledge on using functions in spreadsheets
         - [ ] 04 Save time with structured thinking
           - [ ] Video: Before solving a problem, understand it
           - [ ] Video: Scope of work and structured thinking
