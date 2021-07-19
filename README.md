@@ -186,14 +186,14 @@
           - [x] Video: Optional Refresher: Get ready for Qwiklabs
           - [x] Ungraded External Tool: Ungraded External ToolQwiklab: Spreadsheet basics
           - [x] Practice Quiz: Test your knowledge on using functions in spreadsheets
-        - [ ] 04 Save time with structured thinking
-          - [ ] Video: Before solving a problem, understand it
-          - [ ] Video: Scope of work and structured thinking
-          - [ ] Practice Quiz: Hands-On Activity: Create a scope of work
-          - [ ] Video: Staying objective
-          - [ ] Reading: The importance of context
-          - [ ] Reading: Learning Log: Define problems and ask questions with data
-          - [ ] Practice Quiz: Test your knowledge on structured thinking
+        - [x] 04 Save time with structured thinking
+          - [x] Video: Before solving a problem, understand it
+          - [x] Video: Scope of work and structured thinking
+          - [x] Practice Quiz: Hands-On Activity: Create a scope of work
+          - [x] Video: Staying objective
+          - [x] Reading: The importance of context
+          - [x] Reading: Learning Log: Define problems and ask questions with data
+          - [x] Practice Quiz: Test your knowledge on structured thinking
         - [ ] 05 *Weekly challenge 3*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 3*
