@@ -194,9 +194,9 @@
           - [x] Reading: The importance of context
           - [x] Reading: Learning Log: Define problems and ask questions with data
           - [x] Practice Quiz: Test your knowledge on structured thinking
-        - [ ] 05 *Weekly challenge 3*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 3*
+        - [x] 05 *Weekly challenge 3*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 3*
       - [ ] **Week 4 (Always remember the stakeholder)**
         - [ ] 01 Balance team and stakeholder needs
           - [ ] Video: Communicating with your team
