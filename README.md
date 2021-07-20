@@ -166,12 +166,12 @@
       - [x] **Week 2 (Data-driven decisions)**
       - [x] **Week 3 (More spreadsheet basics)**
       - [ ] **Week 4 (Always remember the stakeholder)**
-        - [ ] 01 Balance team and stakeholder needs
-          - [ ] Video: Communicating with your team
-          - [ ] Video: Balancing needs and expectations across your team
-          - [ ] Reading: Working with stakeholders
-          - [ ] Video: Focus on what matters
-          - [ ] Practice Quiz: Test your knowledge on balancing team and stakeholder needs
+        - [x] 01 Balance team and stakeholder needs
+          - [x] Video: Communicating with your team
+          - [x] Video: Balancing needs and expectations across your team
+          - [x] Reading: Working with stakeholders
+          - [x] Video: Focus on what matters
+          - [x] Practice Quiz: Test your knowledge on balancing team and stakeholder needs
         - [ ] 02 Communication is key
           - [ ] Video: Clear communication is key 
           - [ ] Video: Tips for effective communication
