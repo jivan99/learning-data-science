@@ -161,11 +161,7 @@
 
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
-    - [ ] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
-      - [x] **Week 1 (Effective questions)**
-      - [x] **Week 2 (Data-driven decisions)**
-      - [x] **Week 3 (More spreadsheet basics)**
-      - [x] **Week 4 (Always remember the stakeholder)**
+    - [x] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
