@@ -193,11 +193,11 @@
         - [x] 04 *Weekly challenge 4*
           - [x] Reading: Glossary: Terms and definitions
           - [x] Quiz: *Weekly challenge 4*
-        - [ ] 05 *Course challenge*
-          - [ ] Video: Course wrap-up
-          - [ ] Quiz: *Course challenge*
-          - [ ] Video: Congratulations! 
-          - [ ] Reading: Coming up next...
+        - [x] 05 *Course challenge*
+          - [x] Video: Course wrap-up
+          - [x] Quiz: *Course challenge*
+          - [x] Video: Congratulations! 
+          - [x] Reading: Coming up next...
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
