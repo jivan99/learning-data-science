@@ -190,9 +190,9 @@
           - [x] Discussion Prompt: Communicating challenges
           - [x] Video: Nathan: From the U.S. Marine Corps to data analytics
           - [x] Practice Quiz: Test your knowledge on teamwork
-        - [ ] 04 *Weekly challenge 4*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 4*
+        - [x] 04 *Weekly challenge 4*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 4*
         - [ ] 05 *Course challenge*
           - [ ] Video: Course wrap-up
           - [ ] Quiz: *Course challenge*
