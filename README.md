@@ -172,16 +172,16 @@
           - [x] Reading: Working with stakeholders
           - [x] Video: Focus on what matters
           - [x] Practice Quiz: Test your knowledge on balancing team and stakeholder needs
-        - [ ] 02 Communication is key
-          - [ ] Video: Clear communication is key 
-          - [ ] Video: Tips for effective communication
-          - [ ] Reading: Data scenarios and responses
-          - [ ] Video: Balancing expectations and realistic project goals
-          - [ ] Video: Sarah: How to communicate with stakeholders
-          - [ ] Video: The data tradeoff: Speed versus accuracy
-          - [ ] Reading: Limitations of data
-          - [ ] Video: Think about your process and outcome
-          - [ ] Practice Quiz: Test your knowledge on clear communication
+        - [x] 02 Communication is key
+          - [x] Video: Clear communication is key 
+          - [x] Video: Tips for effective communication
+          - [x] Reading: Data scenarios and responses
+          - [x] Video: Balancing expectations and realistic project goals
+          - [x] Video: Sarah: How to communicate with stakeholders
+          - [x] Video: The data tradeoff: Speed versus accuracy
+          - [x] Reading: Limitations of data
+          - [x] Video: Think about your process and outcome
+          - [x] Practice Quiz: Test your knowledge on clear communication
         - [ ] 03 Amazing teamwork
           - [ ] Video: Meeting best practices
           - [ ] Video: Ximena: Joining a new team
