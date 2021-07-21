@@ -182,14 +182,14 @@
           - [x] Reading: Limitations of data
           - [x] Video: Think about your process and outcome
           - [x] Practice Quiz: Test your knowledge on clear communication
-        - [ ] 03 Amazing teamwork
-          - [ ] Video: Meeting best practices
-          - [ ] Video: Ximena: Joining a new team
-          - [ ] Reading: Leading great meetings
-          - [ ] Video: From conflict to collaboration
-          - [ ] Discussion Prompt: Communicating challenges
-          - [ ] Video: Nathan: From the U.S. Marine Corps to data analytics
-          - [ ] Practice Quiz: Test your knowledge on teamwork
+        - [x] 03 Amazing teamwork
+          - [x] Video: Meeting best practices
+          - [x] Video: Ximena: Joining a new team
+          - [x] Reading: Leading great meetings
+          - [x] Video: From conflict to collaboration
+          - [x] Discussion Prompt: Communicating challenges
+          - [x] Video: Nathan: From the U.S. Marine Corps to data analytics
+          - [x] Practice Quiz: Test your knowledge on teamwork
         - [ ] 04 *Weekly challenge 4*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 4*
