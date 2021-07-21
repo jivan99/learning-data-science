@@ -163,6 +163,141 @@
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [x] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
+      - [ ] **Week 1 ( Data types and structures)**
+        - [ ] 01 Data exploration
+          - [ ] Video: Introduction to data exploration
+          - [ ] Reading: Course syllabus
+          - [ ] Video: Hallie: Fascinating data insights 
+          - [ ] Discussion Prompt: Meet and greet
+          - [ ] Refresher: Your data analytics certificate roadmap
+          - [ ] Reading: Deciding if you should take the speed track 
+          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
+          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [ ] 02 Collecting data
+          - [ ] Video: Data collection in our world
+          - [ ] Video: Determining what data to collect
+          - [ ] Reading: Selecting the right data
+          - [ ] Practice Quiz: Test your knowledge on collecting data 
+        - [ ] 03 Differentiate between data formats and structures
+          - [ ] Video: Discover data formats
+          - [ ] Reading: Data formats in practice
+          - [ ] Practice Quiz: Self-Reflection: Unstructured data
+          - [ ] Video: Understanding structured data
+          - [ ] Reading: The structure of data
+          - [ ] Reading: Data modeling levels and techniques
+          - [ ] Practice Quiz: Test your knowledge on data formats and structures
+        - [ ] 04 Explore data types, fields, and values
+          - [ ] Video: Know the type of data you're working with
+          - [ ] Reading: Understanding Boolean logic
+          - [ ] Video: Data table components
+          - [ ] Practice Quiz: Hands-On Activity: Applying a function
+          - [ ] Video: Meet wide and long data
+          - [ ] Reading: Transforming data
+          - [ ] Practice Quiz: Hands-on Activity: Introduction to Kaggle
+          - [ ] Practice Quiz: Test your knowledge on data types, fields, and values
+        - [ ] 05 *Weekly challenge 1*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 1*
+      - [ ] **Week 2 (Bias, credibility, privacy, ethics, and access)**
+        - [ ] 01 Unbiased and objective data
+          - [ ] Video: Ensuring data integrity
+          - [ ] Video: Bias: From questions to conclusions
+          - [ ] Video: Biased and unbiased data
+          - [ ] Discussion Prompt: Accounting for bias
+          - [ ] Video: Understanding bias in data
+          - [ ] Practice Quiz: Test your knowledge on unbiased and objective data
+        - [ ] 02 Explore data credibility
+          - [ ] Video: Identifying good data sources
+          - [ ] Video: What is "bad" data?
+          - [ ] Practice Quiz: Test your knowledge on data credibility
+        - [ ] 03 Data ethics and privacy
+          - [ ] Video: Introduction to data ethics
+          - [ ] Video: Optional Refresher: Alex: The importance of data ethics
+          - [ ] Video: Introduction to data privacy
+          - [ ] Reading: Data anonymization
+          - [ ] Video: Andrew: The ethical use of data
+          - [ ] Practice Quiz: Test your knowledge on data ethics and privacy 
+        - [ ] 04 Understanding open data
+          - [ ] Video: Features of open data
+          - [ ] Reading: The open-data debate
+          - [ ] Video: Andrew: Steps for ethical data use
+          - [ ] Reading: Sites and resources for open data
+          - [ ] Practice Quiz: Hands-On Activity: Kaggle datasets
+          - [ ] Practice Quiz: Test your knowledge on open data
+        - [ ] 05 *Weekly challenge 2*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 2*
+      - [ ] **Week 3 (Databases: Where data lives)**
+        - [ ] 01 Working with databases
+          - [ ] Video: All about databases
+          - [ ] Video: Database features
+          - [ ] Reading: Databases in data analytics
+          - [ ] Reading: Inspecting a dataset: A guided, hands-on tour
+          - [ ] Practice Quiz: Test your knowledge on working with databases
+        - [ ] 02 Managing data with metadata
+          - [ ] Video: Exploring metadata 
+          - [ ] Reading: Metadata is as important as the data itself
+          - [ ] Video: Using metadata as an analyst
+          - [ ] Video: Metadata management
+          - [ ] Video: Megan: Fun with metadata
+          - [ ] Practice Quiz: Test your knowledge on metadata
+        - [ ] 03 Accessing different data sources
+          - [ ] Video: Working with more data sources
+          - [ ] Reading: From external source to a spreadsheet
+          - [ ] Video: Importing data from spreadsheets and databases 
+          - [ ] Reading: Exploring public datasets 
+          - [ ] Practice Quiz: Test your knowledge on accessing data sources
+        - [ ] 04 Sorting and filtering 
+          - [ ] Video: Sorting and filtering
+          - [ ] Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
+          - [ ] Practice Quiz: Self-Reflection: Considering databases and spreadsheets for sorting and filtering
+          - [ ] Practice Quiz: Test your knowledge on sorting and filtering
+        - [ ] 05 Working with large datasets in SQL
+          - [ ] Video: BigQuery in action
+          - [ ] Reading: Using BigQuery
+          - [ ] Practice Quiz: Hands-On Activity: Introduction to BigQuery
+          - [ ] Practice Quiz: Hands-On Activity: Create a custom table in BigQuery
+          - [ ] Reading: In-depth guide: SQL best practices
+          - [ ] Practice Quiz: Hands-On Activity: Applying SQL
+          - [ ] Practice Quiz: Test your knowledge on using SQL with large datasets
+        - [ ] 06 *Weekly challenge 3*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 3*
+      - [ ] **Week 4 (Organizing and protecting your data )**
+        - [ ] 01 Effectively organize data
+          - [ ] Video: Feel confident in your data
+          - [ ] Video: Let's get organized
+          - [ ] Reading: Organization guidelines
+          - [ ] Video: All about file naming 
+          - [ ] Reading: Learning Log: Review file structure and naming conventions
+          - [ ] Effective naming and organization methods
+          - [ ] Practice Quiz: Test your knowledge on how to organize data 
+        - [ ] 02 Securing data
+          - [ ] Video: Security features in spreadsheets
+          - [ ] Reading: Balancing security and analytics
+          - [ ] Practice Quiz: Self-Reflection: Protecting your resources
+          - [ ] Practice Quiz: Test your knowledge on securing your data
+        - [ ] 03 *Weekly challenge 4*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Weekly challenge 4*
+      - [ ] **Week 5 (Optional: Engaging in the data community)**
+        - [ ] 01 Create or enhance your online presence
+          - [ ] Video: Managing your presence as a data analyst
+          - [ ] Video: Why an online presence is important
+          - [ ] Reading: Getting started with LinkedIn
+          - [ ] Reading: Building connections on LinkedIn
+          - [ ] Video: Tips for enhancing your online presence
+          - [ ] Practice Quiz: Self-Reflection: Adding Kaggle to your online presence
+        - [ ] 02 Build a data analytics network
+          - [ ] Video: Networking know-how
+          - [ ] Reading: Developing a network
+          - [ ] Video: Benefits of mentorship
+          - [ ] Video: Rachel: Mentors are key
+        - [ ] 03 *Course challenge*
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: *Course challenge*
+          - [ ] Video: Congrats! Course wrap-up
+          - [ ] Reading: Coming up next...
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
