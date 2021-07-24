@@ -195,9 +195,9 @@
           - [x] Reading: Transforming data
           - [x] Practice Quiz: Hands-on Activity: Introduction to Kaggle
           - [x] Practice Quiz: Test your knowledge on data types, fields, and values
-        - [ ] 05 *Weekly challenge 1*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 1*
+        - [x] 05 *Weekly challenge 1*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 1*
       - [ ] **Week 2 (Bias, credibility, privacy, ethics, and access)**
         - [ ] 01 Unbiased and objective data
           - [ ] Video: Ensuring data integrity
