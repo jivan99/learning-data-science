@@ -164,15 +164,15 @@
     - [x] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
       - [ ] **Week 1 ( Data types and structures)**
-        - [ ] 01 Data exploration
-          - [ ] Video: Introduction to data exploration
-          - [ ] Reading: Course syllabus
-          - [ ] Video: Hallie: Fascinating data insights 
-          - [ ] Discussion Prompt: Meet and greet
-          - [ ] Refresher: Your data analytics certificate roadmap
-          - [ ] Reading: Deciding if you should take the speed track 
-          - [ ] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
-          - [ ] Reading: Optional: Your diagnostic quiz score and what it means
+        - [x] 01 Data exploration
+          - [x] Video: Introduction to data exploration
+          - [x] Reading: Course syllabus
+          - [x] Video: Hallie: Fascinating data insights 
+          - [x] Discussion Prompt: Meet and greet
+          - [x] Refresher: Your data analytics certificate roadmap
+          - [x] Reading: Deciding if you should take the speed track 
+          - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
+          - [x] Reading: Optional: Your diagnostic quiz score and what it means
         - [ ] 02 Collecting data
           - [ ] Video: Data collection in our world
           - [ ] Video: Determining what data to collect
