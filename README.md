@@ -173,11 +173,11 @@
           - [x] Reading: Deciding if you should take the speed track 
           - [x] Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz 
           - [x] Reading: Optional: Your diagnostic quiz score and what it means
-        - [ ] 02 Collecting data
-          - [ ] Video: Data collection in our world
-          - [ ] Video: Determining what data to collect
-          - [ ] Reading: Selecting the right data
-          - [ ] Practice Quiz: Test your knowledge on collecting data 
+        - [x] 02 Collecting data
+          - [x] Video: Data collection in our world
+          - [x] Video: Determining what data to collect
+          - [x] Reading: Selecting the right data
+          - [x] Practice Quiz: Test your knowledge on collecting data 
         - [ ] 03 Differentiate between data formats and structures
           - [ ] Video: Discover data formats
           - [ ] Reading: Data formats in practice
