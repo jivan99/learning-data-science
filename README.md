@@ -178,14 +178,14 @@
           - [x] Video: Determining what data to collect
           - [x] Reading: Selecting the right data
           - [x] Practice Quiz: Test your knowledge on collecting data 
-        - [ ] 03 Differentiate between data formats and structures
-          - [ ] Video: Discover data formats
-          - [ ] Reading: Data formats in practice
-          - [ ] Practice Quiz: Self-Reflection: Unstructured data
-          - [ ] Video: Understanding structured data
-          - [ ] Reading: The structure of data
-          - [ ] Reading: Data modeling levels and techniques
-          - [ ] Practice Quiz: Test your knowledge on data formats and structures
+        - [x] 03 Differentiate between data formats and structures
+          - [x] Video: Discover data formats
+          - [x] Reading: Data formats in practice
+          - [x] Practice Quiz: Self-Reflection: Unstructured data
+          - [x] Video: Understanding structured data
+          - [x] Reading: The structure of data
+          - [x] Reading: Data modeling levels and techniques
+          - [x] Practice Quiz: Test your knowledge on data formats and structures
         - [ ] 04 Explore data types, fields, and values
           - [ ] Video: Know the type of data you're working with
           - [ ] Reading: Understanding Boolean logic
