@@ -186,15 +186,15 @@
           - [x] Reading: The structure of data
           - [x] Reading: Data modeling levels and techniques
           - [x] Practice Quiz: Test your knowledge on data formats and structures
-        - [ ] 04 Explore data types, fields, and values
-          - [ ] Video: Know the type of data you're working with
-          - [ ] Reading: Understanding Boolean logic
-          - [ ] Video: Data table components
-          - [ ] Practice Quiz: Hands-On Activity: Applying a function
-          - [ ] Video: Meet wide and long data
-          - [ ] Reading: Transforming data
-          - [ ] Practice Quiz: Hands-on Activity: Introduction to Kaggle
-          - [ ] Practice Quiz: Test your knowledge on data types, fields, and values
+        - [x] 04 Explore data types, fields, and values
+          - [x] Video: Know the type of data you're working with
+          - [x] Reading: Understanding Boolean logic
+          - [x] Video: Data table components
+          - [x] Practice Quiz: Hands-On Activity: Applying a function
+          - [x] Video: Meet wide and long data
+          - [x] Reading: Transforming data
+          - [x] Practice Quiz: Hands-on Activity: Introduction to Kaggle
+          - [x] Practice Quiz: Test your knowledge on data types, fields, and values
         - [ ] 05 *Weekly challenge 1*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 1*
