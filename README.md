@@ -192,9 +192,9 @@
           - [x] Reading: Sites and resources for open data
           - [x] Practice Quiz: Hands-On Activity: Kaggle datasets
           - [x] Practice Quiz: Test your knowledge on open data
-        - [ ] 05 *Weekly challenge 2*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 2*
+        - [x] 05 *Weekly challenge 2*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 2*
       - [ ] **Week 3 (Databases: Where data lives)**
         - [ ] 01 Working with databases
           - [ ] Video: All about databases
