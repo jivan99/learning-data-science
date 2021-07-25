@@ -178,13 +178,13 @@
           - [x] Video: Setting up BigQuery, including sandbox and billing options
           - [x] Video: How to use BigQuery
           - [x] Practice Quiz: Test your knowledge on data credibility
-        - [ ] 03 Data ethics and privacy
-          - [ ] Video: Introduction to data ethics
-          - [ ] Video: Optional Refresher: Alex: The importance of data ethics
-          - [ ] Video: Introduction to data privacy
-          - [ ] Reading: Data anonymization
-          - [ ] Video: Andrew: The ethical use of data
-          - [ ] Practice Quiz: Test your knowledge on data ethics and privacy 
+        - [x] 03 Data ethics and privacy
+          - [x] Video: Introduction to data ethics
+          - [x] Video: Optional Refresher: Alex: The importance of data ethics
+          - [x] Video: Introduction to data privacy
+          - [x] Reading: Data anonymization
+          - [x] Video: Andrew: The ethical use of data
+          - [x] Practice Quiz: Test your knowledge on data ethics and privacy 
         - [ ] 04 Understanding open data
           - [ ] Video: Features of open data
           - [ ] Reading: The open-data debate
