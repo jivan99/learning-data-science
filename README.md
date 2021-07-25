@@ -185,13 +185,13 @@
           - [x] Reading: Data anonymization
           - [x] Video: Andrew: The ethical use of data
           - [x] Practice Quiz: Test your knowledge on data ethics and privacy 
-        - [ ] 04 Understanding open data
-          - [ ] Video: Features of open data
-          - [ ] Reading: The open-data debate
-          - [ ] Video: Andrew: Steps for ethical data use
-          - [ ] Reading: Sites and resources for open data
-          - [ ] Practice Quiz: Hands-On Activity: Kaggle datasets
-          - [ ] Practice Quiz: Test your knowledge on open data
+        - [x] 04 Understanding open data
+          - [x] Video: Features of open data
+          - [x] Reading: The open-data debate
+          - [x] Video: Andrew: Steps for ethical data use
+          - [x] Reading: Sites and resources for open data
+          - [x] Practice Quiz: Hands-On Activity: Kaggle datasets
+          - [x] Practice Quiz: Test your knowledge on open data
         - [ ] 05 *Weekly challenge 2*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 2*
