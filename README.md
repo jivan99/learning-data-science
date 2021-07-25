@@ -172,10 +172,12 @@
           - [x] Discussion Prompt: Accounting for bias
           - [x] Video: Understanding bias in data
           - [x] Practice Quiz: Test your knowledge on unbiased and objective data
-        - [ ] 02 Explore data credibility
-          - [ ] Video: Identifying good data sources
-          - [ ] Video: What is "bad" data?
-          - [ ] Practice Quiz: Test your knowledge on data credibility
+        - [x] 02 Explore data credibility
+          - [x] Video: Identifying good data sources
+          - [x] Video: What is "bad" data?
+          - [x] Video: Setting up BigQuery, including sandbox and billing options
+          - [x] Video: How to use BigQuery
+          - [x] Practice Quiz: Test your knowledge on data credibility
         - [ ] 03 Data ethics and privacy
           - [ ] Video: Introduction to data ethics
           - [ ] Video: Optional Refresher: Alex: The importance of data ethics
