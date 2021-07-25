@@ -166,12 +166,12 @@
       - [x] **Week 1 ( Data types and structures)**
       - [x] **Week 2 (Bias, credibility, privacy, ethics, and access)**
       - [ ] **Week 3 (Databases: Where data lives)**
-        - [ ] 01 Working with databases
-          - [ ] Video: All about databases
-          - [ ] Video: Database features
-          - [ ] Reading: Databases in data analytics
-          - [ ] Reading: Inspecting a dataset: A guided, hands-on tour
-          - [ ] Practice Quiz: Test your knowledge on working with databases
+        - [x] 01 Working with databases
+          - [x] Video: All about databases
+          - [x] Video: Database features
+          - [x] Reading: Databases in data analytics
+          - [x] Reading: Inspecting a dataset: A guided, hands-on tour
+          - [x] Practice Quiz: Test your knowledge on working with databases
         - [ ] 02 Managing data with metadata
           - [ ] Video: Exploring metadata 
           - [ ] Reading: Metadata is as important as the data itself
