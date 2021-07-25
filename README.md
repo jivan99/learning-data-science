@@ -165,13 +165,13 @@
     - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
       - [x] **Week 1 ( Data types and structures)**
       - [ ] **Week 2 (Bias, credibility, privacy, ethics, and access)**
-        - [ ] 01 Unbiased and objective data
-          - [ ] Video: Ensuring data integrity
-          - [ ] Video: Bias: From questions to conclusions
-          - [ ] Video: Biased and unbiased data
-          - [ ] Discussion Prompt: Accounting for bias
-          - [ ] Video: Understanding bias in data
-          - [ ] Practice Quiz: Test your knowledge on unbiased and objective data
+        - [x] 01 Unbiased and objective data
+          - [x] Video: Ensuring data integrity
+          - [x] Video: Bias: From questions to conclusions
+          - [x] Video: Biased and unbiased data
+          - [x] Discussion Prompt: Accounting for bias
+          - [x] Video: Understanding bias in data
+          - [x] Practice Quiz: Test your knowledge on unbiased and objective data
         - [ ] 02 Explore data credibility
           - [ ] Video: Identifying good data sources
           - [ ] Video: What is "bad" data?
