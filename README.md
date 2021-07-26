@@ -162,12 +162,7 @@
 - [ ] [Coursera: Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
     - [x] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
     - [x] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
-    - [ ] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
-      - [x] **Week 1 ( Data types and structures)**
-      - [x] **Week 2 (Bias, credibility, privacy, ethics, and access)**
-      - [x] **Week 3 (Databases: Where data lives)**
-      - [x] **Week 4 (Organizing and protecting your data )**
-      - [x] **Week 5 (Optional: Engaging in the data community)**
+    - [x] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
