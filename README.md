@@ -175,11 +175,11 @@
           - [x] Reading: Learning Log: Review file structure and naming conventions
           - [x] Effective naming and organization methods
           - [x] Practice Quiz: Test your knowledge on how to organize data 
-        - [ ] 02 Securing data
-          - [ ] Video: Security features in spreadsheets
-          - [ ] Reading: Balancing security and analytics
-          - [ ] Practice Quiz: Self-Reflection: Protecting your resources
-          - [ ] Practice Quiz: Test your knowledge on securing your data
+        - [x] 02 Securing data
+          - [x] Video: Security features in spreadsheets
+          - [x] Reading: Balancing security and analytics
+          - [x] Practice Quiz: Self-Reflection: Protecting your resources
+          - [x] Practice Quiz: Test your knowledge on securing your data
         - [ ] 03 *Weekly challenge 4*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 4*
