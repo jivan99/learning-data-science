@@ -167,14 +167,14 @@
       - [x] **Week 2 (Bias, credibility, privacy, ethics, and access)**
       - [x] **Week 3 (Databases: Where data lives)**
       - [ ] **Week 4 (Organizing and protecting your data )**
-        - [ ] 01 Effectively organize data
-          - [ ] Video: Feel confident in your data
-          - [ ] Video: Let's get organized
-          - [ ] Reading: Organization guidelines
-          - [ ] Video: All about file naming 
-          - [ ] Reading: Learning Log: Review file structure and naming conventions
-          - [ ] Effective naming and organization methods
-          - [ ] Practice Quiz: Test your knowledge on how to organize data 
+        - [x] 01 Effectively organize data
+          - [x] Video: Feel confident in your data
+          - [x] Video: Let's get organized
+          - [x] Reading: Organization guidelines
+          - [x] Video: All about file naming 
+          - [x] Reading: Learning Log: Review file structure and naming conventions
+          - [x] Effective naming and organization methods
+          - [x] Practice Quiz: Test your knowledge on how to organize data 
         - [ ] 02 Securing data
           - [ ] Video: Security features in spreadsheets
           - [ ] Reading: Balancing security and analytics
