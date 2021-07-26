@@ -175,11 +175,11 @@
           - [x] Reading: Building connections on LinkedIn
           - [x] Video: Tips for enhancing your online presence
           - [x] Practice Quiz: Self-Reflection: Adding Kaggle to your online presence
-        - [ ] 02 Build a data analytics network
-          - [ ] Video: Networking know-how
-          - [ ] Reading: Developing a network
-          - [ ] Video: Benefits of mentorship
-          - [ ] Video: Rachel: Mentors are key
+        - [x] 02 Build a data analytics network
+          - [x] Video: Networking know-how
+          - [x] Reading: Developing a network
+          - [x] Video: Benefits of mentorship
+          - [x] Video: Rachel: Mentors are key
         - [ ] 03 *Course challenge*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Course challenge*
