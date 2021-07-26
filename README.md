@@ -172,13 +172,13 @@
           - [x] Reading: Databases in data analytics
           - [x] Reading: Inspecting a dataset: A guided, hands-on tour
           - [x] Practice Quiz: Test your knowledge on working with databases
-        - [ ] 02 Managing data with metadata
-          - [ ] Video: Exploring metadata 
-          - [ ] Reading: Metadata is as important as the data itself
-          - [ ] Video: Using metadata as an analyst
-          - [ ] Video: Metadata management
-          - [ ] Video: Megan: Fun with metadata
-          - [ ] Practice Quiz: Test your knowledge on metadata
+        - [x] 02 Managing data with metadata
+          - [x] Video: Exploring metadata 
+          - [x] Reading: Metadata is as important as the data itself
+          - [x] Video: Using metadata as an analyst
+          - [x] Video: Metadata management
+          - [x] Video: Megan: Fun with metadata
+          - [x] Practice Quiz: Test your knowledge on metadata
         - [ ] 03 Accessing different data sources
           - [ ] Video: Working with more data sources
           - [ ] Reading: From external source to a spreadsheet
