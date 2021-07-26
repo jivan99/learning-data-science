@@ -190,14 +190,14 @@
           - [x] Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
           - [x] Practice Quiz: Self-Reflection: Considering databases and spreadsheets for sorting and filtering
           - [x] Practice Quiz: Test your knowledge on sorting and filtering
-        - [ ] 05 Working with large datasets in SQL
-          - [ ] Video: BigQuery in action
-          - [ ] Reading: Using BigQuery
-          - [ ] Practice Quiz: Hands-On Activity: Introduction to BigQuery
-          - [ ] Practice Quiz: Hands-On Activity: Create a custom table in BigQuery
-          - [ ] Reading: In-depth guide: SQL best practices
-          - [ ] Practice Quiz: Hands-On Activity: Applying SQL
-          - [ ] Practice Quiz: Test your knowledge on using SQL with large datasets
+        - [x] 05 Working with large datasets in SQL
+          - [x] Video: BigQuery in action
+          - [x] Reading: Using BigQuery
+          - [x] Practice Quiz: Hands-On Activity: Introduction to BigQuery
+          - [x] Practice Quiz: Hands-On Activity: Create a custom table in BigQuery
+          - [x] Reading: In-depth guide: SQL best practices
+          - [x] Practice Quiz: Hands-On Activity: Applying SQL
+          - [x] Practice Quiz: Test your knowledge on using SQL with large datasets
         - [ ] 06 *Weekly challenge 3*
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: *Weekly challenge 3*
