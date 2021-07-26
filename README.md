@@ -198,9 +198,9 @@
           - [x] Reading: In-depth guide: SQL best practices
           - [x] Practice Quiz: Hands-On Activity: Applying SQL
           - [x] Practice Quiz: Test your knowledge on using SQL with large datasets
-        - [ ] 06 *Weekly challenge 3*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 3*
+        - [x] 06 *Weekly challenge 3*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 3*
       - [ ] **Week 4 (Organizing and protecting your data )**
         - [ ] 01 Effectively organize data
           - [ ] Video: Feel confident in your data
