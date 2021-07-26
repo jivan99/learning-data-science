@@ -168,13 +168,13 @@
       - [x] **Week 3 (Databases: Where data lives)**
       - [x] **Week 4 (Organizing and protecting your data )**
       - [ ] **Week 5 (Optional: Engaging in the data community)**
-        - [ ] 01 Create or enhance your online presence
-          - [ ] Video: Managing your presence as a data analyst
-          - [ ] Video: Why an online presence is important
-          - [ ] Reading: Getting started with LinkedIn
-          - [ ] Reading: Building connections on LinkedIn
-          - [ ] Video: Tips for enhancing your online presence
-          - [ ] Practice Quiz: Self-Reflection: Adding Kaggle to your online presence
+        - [x] 01 Create or enhance your online presence
+          - [x] Video: Managing your presence as a data analyst
+          - [x] Video: Why an online presence is important
+          - [x] Reading: Getting started with LinkedIn
+          - [x] Reading: Building connections on LinkedIn
+          - [x] Video: Tips for enhancing your online presence
+          - [x] Practice Quiz: Self-Reflection: Adding Kaggle to your online presence
         - [ ] 02 Build a data analytics network
           - [ ] Video: Networking know-how
           - [ ] Reading: Developing a network
