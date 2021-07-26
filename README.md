@@ -180,9 +180,9 @@
           - [x] Reading: Balancing security and analytics
           - [x] Practice Quiz: Self-Reflection: Protecting your resources
           - [x] Practice Quiz: Test your knowledge on securing your data
-        - [ ] 03 *Weekly challenge 4*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Weekly challenge 4*
+        - [x] 03 *Weekly challenge 4*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Weekly challenge 4*
       - [ ] **Week 5 (Optional: Engaging in the data community)**
         - [ ] 01 Create or enhance your online presence
           - [ ] Video: Managing your presence as a data analyst
