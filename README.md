@@ -180,11 +180,11 @@
           - [x] Reading: Developing a network
           - [x] Video: Benefits of mentorship
           - [x] Video: Rachel: Mentors are key
-        - [ ] 03 *Course challenge*
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: *Course challenge*
-          - [ ] Video: Congrats! Course wrap-up
-          - [ ] Reading: Coming up next...
+        - [x] 03 *Course challenge*
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: *Course challenge*
+          - [x] Video: Congrats! Course wrap-up
+          - [x] Reading: Coming up next...
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
