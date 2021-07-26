@@ -185,11 +185,11 @@
           - [x] Video: Importing data from spreadsheets and databases 
           - [x] Reading: Exploring public datasets 
           - [x] Practice Quiz: Test your knowledge on accessing data sources
-        - [ ] 04 Sorting and filtering 
-          - [ ] Video: Sorting and filtering
-          - [ ] Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
-          - [ ] Practice Quiz: Self-Reflection: Considering databases and spreadsheets for sorting and filtering
-          - [ ] Practice Quiz: Test your knowledge on sorting and filtering
+        - [x] 04 Sorting and filtering 
+          - [x] Video: Sorting and filtering
+          - [x] Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
+          - [x] Practice Quiz: Self-Reflection: Considering databases and spreadsheets for sorting and filtering
+          - [x] Practice Quiz: Test your knowledge on sorting and filtering
         - [ ] 05 Working with large datasets in SQL
           - [ ] Video: BigQuery in action
           - [ ] Reading: Using BigQuery
