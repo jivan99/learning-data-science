@@ -179,12 +179,12 @@
           - [x] Video: Metadata management
           - [x] Video: Megan: Fun with metadata
           - [x] Practice Quiz: Test your knowledge on metadata
-        - [ ] 03 Accessing different data sources
-          - [ ] Video: Working with more data sources
-          - [ ] Reading: From external source to a spreadsheet
-          - [ ] Video: Importing data from spreadsheets and databases 
-          - [ ] Reading: Exploring public datasets 
-          - [ ] Practice Quiz: Test your knowledge on accessing data sources
+        - [x] 03 Accessing different data sources
+          - [x] Video: Working with more data sources
+          - [x] Reading: From external source to a spreadsheet
+          - [x] Video: Importing data from spreadsheets and databases 
+          - [x] Reading: Exploring public datasets 
+          - [x] Practice Quiz: Test your knowledge on accessing data sources
         - [ ] 04 Sorting and filtering 
           - [ ] Video: Sorting and filtering
           - [ ] Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
