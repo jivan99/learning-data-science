@@ -193,9 +193,9 @@
           - [x] Video: Evaluate the reliability of your data
           - [x] Reading: All about margin of error
           - [x] Practice Quiz: Test your knowledge on margin of error
-        - [ ] 06 Weekly challenge 1
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: Weekly challenge 1 
+        - [x] 06 Weekly challenge 1
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: Weekly challenge 1 
       - [ ] **Week 2 (Sparkling-clean data)**
         - [ ] 01 Data cleaning is a must
           - [ ] Video: Clean it up!
