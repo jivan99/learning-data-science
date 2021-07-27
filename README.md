@@ -189,10 +189,10 @@
           - [x] Video: Determine the best sample size 
           - [x] Reading: Sample size calculator
           - [x] Practice Quiz: Test your knowledge on testing your data
-        - [ ] 05 Consider the margin of error
-          - [ ] Video: Evaluate the reliability of your data
-          - [ ] Reading: All about margin of error
-          - [ ] Practice Quiz: Test your knowledge on margin of error
+        - [x] 05 Consider the margin of error
+          - [x] Video: Evaluate the reliability of your data
+          - [x] Reading: All about margin of error
+          - [x] Practice Quiz: Test your knowledge on margin of error
         - [ ] 06 Weekly challenge 1
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: Weekly challenge 1 
