@@ -165,11 +165,11 @@
     - [x] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
       - [ ] **Week 1 (The importance of integrity)**
-        - [ ] 01 Focus on integrity
-          - [ ] Video: Introduction to focus on integrity
-          - [ ] Reading: Course syllabus
-          - [ ] Discussion Prompt: Meet and greet
-          - [ ] Refresher: Your data analytics certificate roadmap
+        - [x] 01 Focus on integrity
+          - [x] Video: Introduction to focus on integrity
+          - [x] Reading: Course syllabus
+          - [x] Discussion Prompt: Meet and greet
+          - [x] Refresher: Your data analytics certificate roadmap
         - [ ] 02 Data integrity and analytics objectives
           - [ ] Video: Why data integrity is important
           - [ ] Reading: More about data integrity and compliance
