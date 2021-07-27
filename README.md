@@ -170,12 +170,12 @@
           - [x] Reading: Course syllabus
           - [x] Discussion Prompt: Meet and greet
           - [x] Refresher: Your data analytics certificate roadmap
-        - [ ] 02 Data integrity and analytics objectives
-          - [ ] Video: Why data integrity is important
-          - [ ] Reading: More about data integrity and compliance
-          - [ ] Video: Balancing objectives with data integrity
-          - [ ] Reading: Well-aligned objectives and data 
-          - [ ] Practice Quiz: Test your knowledge on data integrity and analytics objectives
+        - [x] 02 Data integrity and analytics objectives
+          - [x] Video: Why data integrity is important
+          - [x] Reading: More about data integrity and compliance
+          - [x] Video: Balancing objectives with data integrity
+          - [x] Reading: Well-aligned objectives and data 
+          - [x] Practice Quiz: Test your knowledge on data integrity and analytics objectives
         - [ ] 03 Overcoming the challenges of insufficient data
           - [ ] Video: Dealing with insufficient data
           - [ ] Reading: What to do when you find an issue with your data
