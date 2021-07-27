@@ -176,13 +176,13 @@
           - [x] Video: Balancing objectives with data integrity
           - [x] Reading: Well-aligned objectives and data 
           - [x] Practice Quiz: Test your knowledge on data integrity and analytics objectives
-        - [ ] 03 Overcoming the challenges of insufficient data
-          - [ ] Video: Dealing with insufficient data
-          - [ ] Reading: What to do when you find an issue with your data
-          - [ ] Video: The importance of sample size
-          - [ ] Reading: Calculating sample size
-          - [ ] Practice Quiz: Self-Reflection: Why pre-cleaning activities are important
-          - [ ] Practice Quiz: Test your knowledge on insufficient data
+        - [x] 03 Overcoming the challenges of insufficient data
+          - [x] Video: Dealing with insufficient data
+          - [x] Reading: What to do when you find an issue with your data
+          - [x] Video: The importance of sample size
+          - [x] Reading: Calculating sample size
+          - [x] Practice Quiz: Self-Reflection: Why pre-cleaning activities are important
+          - [x] Practice Quiz: Test your knowledge on insufficient data
         - [ ] 04 Testing your data
           - [ ] Video: Using statistical power
           - [ ] Reading: What to do when there is no data
