@@ -166,13 +166,13 @@
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
       - [x] **Week 1 (The importance of integrity)**
       - [ ] **Week 2 (Sparkling-clean data)**
-        - [ ] 01 Data cleaning is a must
-          - [ ] Video: Clean it up!
-          - [ ] Video: Why data cleaning is important
-          - [ ] Video: Angie: Why I love cleaning data
-          - [ ] Reading: What is dirty data?
-          - [ ] Video: Recognize and remedy dirty data
-          - [ ] Practice Quiz: Test your knowledge on clean versus dirty data
+        - [x] 01 Data cleaning is a must
+          - [x] Video: Clean it up!
+          - [x] Video: Why data cleaning is important
+          - [x] Video: Angie: Why I love cleaning data
+          - [x] Reading: What is dirty data?
+          - [x] Video: Recognize and remedy dirty data
+          - [x] Practice Quiz: Test your knowledge on clean versus dirty data
         - [ ] 02 Begin cleaning data 
           - [ ] Video: Data-cleaning tools and techniques
           - [ ] Video: Cleaning data from multiple sources
