@@ -293,7 +293,6 @@
           - [ ] Quiz: Course challenge
           - [ ] Video: Congratulations! 
           - [ ] Reading: Coming up next ...
-
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
     - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
