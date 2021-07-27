@@ -183,12 +183,12 @@
           - [x] Reading: Calculating sample size
           - [x] Practice Quiz: Self-Reflection: Why pre-cleaning activities are important
           - [x] Practice Quiz: Test your knowledge on insufficient data
-        - [ ] 04 Testing your data
-          - [ ] Video: Using statistical power
-          - [ ] Reading: What to do when there is no data
-          - [ ] Video: Determine the best sample size 
-          - [ ] Reading: Sample size calculator
-          - [ ] Practice Quiz: Test your knowledge on testing your data
+        - [x] 04 Testing your data
+          - [x] Video: Using statistical power
+          - [x] Reading: What to do when there is no data
+          - [x] Video: Determine the best sample size 
+          - [x] Reading: Sample size calculator
+          - [x] Practice Quiz: Test your knowledge on testing your data
         - [ ] 05 Consider the margin of error
           - [ ] Video: Evaluate the reliability of your data
           - [ ] Reading: All about margin of error
