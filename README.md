@@ -164,6 +164,136 @@
     - [x] [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
     - [x] [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
     - [ ] [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
+      - [ ] **Week 1 (The importance of integrity)**
+        - [ ] 01 Focus on integrity
+          - [ ] Video: Introduction to focus on integrity
+          - [ ] Reading: Course syllabus
+          - [ ] Discussion Prompt: Meet and greet
+          - [ ] Refresher: Your data analytics certificate roadmap
+        - [ ] 02 Data integrity and analytics objectives
+          - [ ] Video: Why data integrity is important
+          - [ ] Reading: More about data integrity and compliance
+          - [ ] Video: Balancing objectives with data integrity
+          - [ ] Reading: Well-aligned objectives and data 
+          - [ ] Practice Quiz: Test your knowledge on data integrity and analytics objectives
+        - [ ] 03 Overcoming the challenges of insufficient data
+          - [ ] Video: Dealing with insufficient data
+          - [ ] Reading: What to do when you find an issue with your data
+          - [ ] Video: The importance of sample size
+          - [ ] Reading: Calculating sample size
+          - [ ] Practice Quiz: Self-Reflection: Why pre-cleaning activities are important
+          - [ ] Practice Quiz: Test your knowledge on insufficient data
+        - [ ] 04 Testing your data
+          - [ ] Video: Using statistical power
+          - [ ] Reading: What to do when there is no data
+          - [ ] Video: Determine the best sample size 
+          - [ ] Reading: Sample size calculator
+          - [ ] Practice Quiz: Test your knowledge on testing your data
+        - [ ] 05 Consider the margin of error
+          - [ ] Video: Evaluate the reliability of your data
+          - [ ] Reading: All about margin of error
+          - [ ] Practice Quiz: Test your knowledge on margin of error
+        - [ ] 06 Weekly challenge 1
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 1 
+      - [ ] **Week 2 (Sparkling-clean data)**
+        - [ ] 01 Data cleaning is a must
+          - [ ] Video: Clean it up!
+          - [ ] Video: Why data cleaning is important
+          - [ ] Video: Angie: Why I love cleaning data
+          - [ ] Reading: What is dirty data?
+          - [ ] Video: Recognize and remedy dirty data
+          - [ ] Practice Quiz: Test your knowledge on clean versus dirty data
+        - [ ] 02 Begin cleaning data 
+          - [ ] Video: Data-cleaning tools and techniques
+          - [ ] Video: Cleaning data from multiple sources
+          - [ ] Reading: Common data-cleaning pitfalls
+          - [ ] Practice Quiz: Hands-On Activity: Cleaning data with spreadsheets
+          - [ ] Practice Quiz: Test your knowledge on data-cleaning techniques
+        - [ ] 03 Cleaning data in spreadsheets
+          - [ ] Video: Data-cleaning features in spreadsheets
+          - [ ] Video: Optimize the data-cleaning process
+          - [ ] Reading: Workflow automation
+          - [ ] Video: Different data perspectives
+          - [ ] Video: Even more data-cleaning techniques
+          - [ ] Practice Quiz: Hands-On Activity: Clean data with spreadsheet functions
+          - [ ] Reading: Learning Log: Develop your approach to cleaning data
+          - [ ] Practice Quiz: Test your knowledge on cleaning data in spreadsheets
+        - [ ] 04 Weekly challenge 2
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 2
+      - [ ] **Week 3 (Cleaning data with SQL )**
+        - [ ] 01 Using SQL to clean data
+          - [ ] Video: Using SQL to clean data
+          - [ ] Video: Sally: For the love of SQL
+          - [ ] Video: Understanding SQL capabilities
+          - [ ] Reading: Using SQL as a junior data analyst
+          - [ ] Video: Spreadsheets versus SQL
+          - [ ] Reading: SQL dialects and their uses
+          - [ ] Practice Quiz: Hands-On Activity: Processing time with SQL
+          - [ ] Practice Quiz: Test your knowledge on SQL
+        - [ ] 02 Learn basic SQL queries
+          - [ ] Reading: Optional: Upload the customer dataset to BigQuery
+          - [ ] Video: Widely used SQL queries
+          - [ ] Video: Evan: Having fun with SQL 
+          - [ ] Video: Cleaning string variables using SQL
+          - [ ] Practice Quiz: Hands-On Activity: Clean data using SQL
+          - [ ] Practice Quiz: Test your knowledge on SQL queries
+        - [ ] 03 Transforming data
+          - [ ] Reading: Optional: Upload the store transactions dataset to BigQuery
+          - [ ] Video: Advanced data cleaning functions, part 1
+          - [ ] Video: Advanced data-cleaning functions, part 2
+          - [ ] Discussion Prompt: Debugging SQL code
+          - [ ] Practice Quiz: Self-Reflection: Challenges with SQL
+        - [ ] 04 Weekly challenge 3
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 3
+      - [ ] **Week 4 (Verify and report on your cleaning results )**
+        - [ ] 01 Manually cleaning data
+          - [ ] Video: Verifying and reporting results
+          - [ ] Video: Cleaning and your data expectations
+          - [ ] Video: The final step in data cleaning
+          - [ ] Reading: Data-cleaning verification: A checklist
+          - [ ] Practice Quiz: Test your knowledge on manual data cleaning
+        - [ ] 02 Documenting results and the cleaning process
+          - [ ] Video: Capturing cleaning changes
+          - [ ] Reading: Embrace changelogs
+          - [ ] Practice Quiz: Self-Reflection: Creating a changelog
+          - [ ] Video: Why documentation is important
+          - [ ] Video: Feedback and cleaning
+          - [ ] Reading: Advanced functions for speedy data cleaning
+          - [ ] Practice Quiz: Test your knowledge on documenting the cleaning process
+        - [ ] 03 Weekly challenge 4
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 4
+      - [ ] **Week 5 (Optional: Adding data to your resume )**
+        - [ ] 01 The data analyst hiring process
+          - [ ] Video: About the data-analyst hiring process 
+          - [ ] Video: The data analyst job-application process
+          - [ ] Video: Creating a resume 
+          - [ ] Practice Quiz: Hands-On Activity: Build a resume
+        - [ ] 02 Understand the elements of a data analyst resume
+          - [ ] Video: Making your resume unique
+          - [ ] Video: Joseph: Black and African American inclusion in the data industry
+          - [ ] Reading: CareerCon resources on YouTube
+          - [ ] Practice Quiz: Hands-On Activity: Adding skills to a resume
+        - [ ] 03 Highlighting experiences on resumes
+          - [ ] Video: Translating past work experience
+          - [ ] Video: Kate: My career path as a data analyst
+          - [ ] Reading: Adding professional skills to your resume
+          - [ ] Reading: Adding softs skills to your resume
+          - [ ] Practice Quiz: Hands-On Activity: Adding experience to a resume
+        - [ ] 04 Exploring areas of interest
+          - [ ] Video: Where does your interest lie?
+          - [ ] Discussion Prompt: Share resume best practices
+      - [ ] **Week 6 (Course challenge )**
+        - [ ] 01 Course challenge
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Video: Get ready for the course challenge
+          - [ ] Quiz: Course challenge
+          - [ ] Video: Congratulations! 
+          - [ ] Reading: Coming up next ...
+
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
     - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
