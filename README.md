@@ -173,12 +173,12 @@
           - [x] Reading: What is dirty data?
           - [x] Video: Recognize and remedy dirty data
           - [x] Practice Quiz: Test your knowledge on clean versus dirty data
-        - [ ] 02 Begin cleaning data 
-          - [ ] Video: Data-cleaning tools and techniques
-          - [ ] Video: Cleaning data from multiple sources
-          - [ ] Reading: Common data-cleaning pitfalls
-          - [ ] Practice Quiz: Hands-On Activity: Cleaning data with spreadsheets
-          - [ ] Practice Quiz: Test your knowledge on data-cleaning techniques
+        - [x] 02 Begin cleaning data 
+          - [x] Video: Data-cleaning tools and techniques
+          - [x] Video: Cleaning data from multiple sources
+          - [x] Reading: Common data-cleaning pitfalls
+          - [x] Practice Quiz: Hands-On Activity: Cleaning data with spreadsheets
+          - [x] Practice Quiz: Test your knowledge on data-cleaning techniques
         - [ ] 03 Cleaning data in spreadsheets
           - [ ] Video: Data-cleaning features in spreadsheets
           - [ ] Video: Optimize the data-cleaning process
