@@ -176,13 +176,13 @@
           - [x] Reading: SQL dialects and their uses
           - [x] Practice Quiz: Hands-On Activity: Processing time with SQL
           - [x] Practice Quiz: Test your knowledge on SQL
-        - [ ] 02 Learn basic SQL queries
-          - [ ] Reading: Optional: Upload the customer dataset to BigQuery
-          - [ ] Video: Widely used SQL queries
-          - [ ] Video: Evan: Having fun with SQL 
-          - [ ] Video: Cleaning string variables using SQL
-          - [ ] Practice Quiz: Hands-On Activity: Clean data using SQL
-          - [ ] Practice Quiz: Test your knowledge on SQL queries
+        - [x] 02 Learn basic SQL queries
+          - [x] Reading: Optional: Upload the customer dataset to BigQuery
+          - [x] Video: Widely used SQL queries
+          - [x] Video: Evan: Having fun with SQL 
+          - [x] Video: Cleaning string variables using SQL
+          - [x] Practice Quiz: Hands-On Activity: Clean data using SQL
+          - [x] Practice Quiz: Test your knowledge on SQL queries
         - [ ] 03 Transforming data
           - [ ] Reading: Optional: Upload the store transactions dataset to BigQuery
           - [ ] Video: Advanced data cleaning functions, part 1
