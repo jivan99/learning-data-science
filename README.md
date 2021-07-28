@@ -167,15 +167,15 @@
       - [x] **Week 1 (The importance of integrity)**
       - [x] **Week 2 (Sparkling-clean data)**
       - [ ] **Week 3 (Cleaning data with SQL )**
-        - [ ] 01 Using SQL to clean data
-          - [ ] Video: Using SQL to clean data
-          - [ ] Video: Sally: For the love of SQL
-          - [ ] Video: Understanding SQL capabilities
-          - [ ] Reading: Using SQL as a junior data analyst
-          - [ ] Video: Spreadsheets versus SQL
-          - [ ] Reading: SQL dialects and their uses
-          - [ ] Practice Quiz: Hands-On Activity: Processing time with SQL
-          - [ ] Practice Quiz: Test your knowledge on SQL
+        - [x] 01 Using SQL to clean data
+          - [x] Video: Using SQL to clean data
+          - [x] Video: Sally: For the love of SQL
+          - [x] Video: Understanding SQL capabilities
+          - [x] Reading: Using SQL as a junior data analyst
+          - [x] Video: Spreadsheets versus SQL
+          - [x] Reading: SQL dialects and their uses
+          - [x] Practice Quiz: Hands-On Activity: Processing time with SQL
+          - [x] Practice Quiz: Test your knowledge on SQL
         - [ ] 02 Learn basic SQL queries
           - [ ] Reading: Optional: Upload the customer dataset to BigQuery
           - [ ] Video: Widely used SQL queries
