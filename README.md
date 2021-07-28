@@ -183,12 +183,12 @@
           - [x] Video: Cleaning string variables using SQL
           - [x] Practice Quiz: Hands-On Activity: Clean data using SQL
           - [x] Practice Quiz: Test your knowledge on SQL queries
-        - [ ] 03 Transforming data
-          - [ ] Reading: Optional: Upload the store transactions dataset to BigQuery
-          - [ ] Video: Advanced data cleaning functions, part 1
-          - [ ] Video: Advanced data-cleaning functions, part 2
-          - [ ] Discussion Prompt: Debugging SQL code
-          - [ ] Practice Quiz: Self-Reflection: Challenges with SQL
+        - [X] 03 Transforming data
+          - [x] Reading: Optional: Upload the store transactions dataset to BigQuery
+          - [X] Video: Advanced data cleaning functions, part 1
+          - [X] Video: Advanced data-cleaning functions, part 2
+          - [X] Discussion Prompt: Debugging SQL code
+          - [X] Practice Quiz: Self-Reflection: Challenges with SQL
         - [ ] 04 Weekly challenge 3
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: Weekly challenge 3
