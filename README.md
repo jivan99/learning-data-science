@@ -188,9 +188,9 @@
           - [x] Practice Quiz: Hands-On Activity: Clean data with spreadsheet functions
           - [x] Reading: Learning Log: Develop your approach to cleaning data
           - [x] Practice Quiz: Test your knowledge on cleaning data in spreadsheets
-        - [ ] 04 Weekly challenge 2
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: Weekly challenge 2
+        - [x] 04 Weekly challenge 2
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: Weekly challenge 2
       - [ ] **Week 3 (Cleaning data with SQL )**
         - [ ] 01 Using SQL to clean data
           - [ ] Video: Using SQL to clean data
