@@ -189,9 +189,9 @@
           - [X] Video: Advanced data-cleaning functions, part 2
           - [X] Discussion Prompt: Debugging SQL code
           - [X] Practice Quiz: Self-Reflection: Challenges with SQL
-        - [ ] 04 Weekly challenge 3
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: Weekly challenge 3
+        - [x] 04 Weekly challenge 3
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: Weekly challenge 3
       - [ ] **Week 4 (Verify and report on your cleaning results )**
         - [ ] 01 Manually cleaning data
           - [ ] Video: Verifying and reporting results
