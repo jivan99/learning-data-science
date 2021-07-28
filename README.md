@@ -179,15 +179,15 @@
           - [x] Reading: Common data-cleaning pitfalls
           - [x] Practice Quiz: Hands-On Activity: Cleaning data with spreadsheets
           - [x] Practice Quiz: Test your knowledge on data-cleaning techniques
-        - [ ] 03 Cleaning data in spreadsheets
-          - [ ] Video: Data-cleaning features in spreadsheets
-          - [ ] Video: Optimize the data-cleaning process
-          - [ ] Reading: Workflow automation
-          - [ ] Video: Different data perspectives
-          - [ ] Video: Even more data-cleaning techniques
-          - [ ] Practice Quiz: Hands-On Activity: Clean data with spreadsheet functions
-          - [ ] Reading: Learning Log: Develop your approach to cleaning data
-          - [ ] Practice Quiz: Test your knowledge on cleaning data in spreadsheets
+        - [x] 03 Cleaning data in spreadsheets
+          - [x] Video: Data-cleaning features in spreadsheets
+          - [x] Video: Optimize the data-cleaning process
+          - [x] Reading: Workflow automation
+          - [x] Video: Different data perspectives
+          - [x] Video: Even more data-cleaning techniques
+          - [x] Practice Quiz: Hands-On Activity: Clean data with spreadsheet functions
+          - [x] Reading: Learning Log: Develop your approach to cleaning data
+          - [x] Practice Quiz: Test your knowledge on cleaning data in spreadsheets
         - [ ] 04 Weekly challenge 2
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: Weekly challenge 2
