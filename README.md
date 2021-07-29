@@ -182,9 +182,9 @@
           - [x] Video: Feedback and cleaning
           - [x] Reading: Advanced functions for speedy data cleaning
           - [x] Practice Quiz: Test your knowledge on documenting the cleaning process
-        - [ ] 03 Weekly challenge 4
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Quiz: Weekly challenge 4
+        - [x] 03 Weekly challenge 4
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Quiz: Weekly challenge 4
       - [ ] **Week 5 (Optional: Adding data to your resume )**
         - [ ] 01 The data analyst hiring process
           - [ ] Video: About the data-analyst hiring process 
