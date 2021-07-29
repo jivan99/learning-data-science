@@ -190,6 +190,135 @@
           - [ ] Discussion Prompt: Share resume best practices
       - [x] **Week 6 (Course challenge )**
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
+      - [ ] **Week 1 (Organizing data to begin analysis )**
+        - [ ] 01 Let's get organized
+          - [ ] Video: Introduction to getting organized
+          - [ ] Reading: Course syllabus 
+          - [ ] Reading: Learning Log: Process and organize your data
+          - [ ] Discussion Prompt: Meet and greet
+          - [ ] Refresher: Your data analytics certificate roadmap
+        - [ ] 02 Data analysis basics
+          - [ ] Video: The analysis process
+          - [ ] Video: Ayanna: Sticking with it
+          - [ ] Practice Quiz: Test your knowledge on understanding data analysis
+        - [ ] 03 Organize data for analysis
+          - [ ] Video: Always a need to organize 
+          - [ ] Reading: Keeping data organized with sorting and filters
+          - [ ] Reading: Optional: Upload the movie dataset to BigQuery
+          - [ ] Video: More on sorting and filtering 
+          - [ ] Practice Quiz: Test your knowledge on organizing data
+        - [ ] 04 Sort data in spreadsheets 
+          - [ ] Video: Sorting datasets 
+          - [ ] Video: The SORT function 
+          - [ ] Reading: Sorting and filtering in Sheets and Excel
+          - [ ] Video: Emma: Journey to a meaningful career
+          - [ ] Practice Quiz: Test your knowledge on sorting in spreadsheets 
+        - [ ] 05 Sort data using SQL 
+          - [ ] Video: Sorting queries in SQL
+          - [ ] Reading: Optional Refresher: Using BigQuery 
+          - [ ] Practice Quiz: Hands-On Activity: SQL sorting queries
+          - [ ] Practice Quiz: Hands-On Activity: Analyze weather data in BigQuery
+          - [ ] Practice Quiz: Test your knowledge on sorting in SQL 
+        - [ ] 06 Weekly challenge 1
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 1
+      - [ ] **Week 2 (Formatting and adjusting data )**
+        - [ ] 01 Convert and format data
+          - [ ] Video: Getting started with data formatting 
+          - [ ] Video: From one type to another 
+          - [ ] Reading:  Converting data in spreadsheets 
+          - [ ] Practice Quiz: Hands-On Activity: Combine multiple pieces of data
+          - [ ] Video: Data validation
+          - [ ] Video: Conditional formatting 
+          - [ ] Discussion Prompt: Identify conditional formatting use cases 
+          - [ ] Reading: Transforming data in SQL
+          - [ ] Practice Quiz: Test your knowledge on converting and formatting data
+        - [ ] 02 Combine multiple datasets 
+          - [ ] Video: Merging and multiple sources 
+          - [ ] Video: Strings in spreadsheets 
+          - [ ] Reading: Manipulating strings in SQL
+          - [ ] Reading: Learning Log: Start a data analysis checklist
+          - [ ] Practice Quiz: Test your knowledge on combining multiple datasets 
+        - [ ] 03 Get support during analysis
+          - [ ] Video: What to do when you get stuck
+          - [ ] Reading: Advanced spreadsheet tips and tricks
+          - [ ] Video: Layla: All about the analyze phase
+          - [ ] Video: Running into challenges? Not to worry!
+          - [ ] Video: When to use which tool
+          - [ ] Practice Quiz: Self-Reflection: Stack Overflow 
+        - [ ] 04 Weekly challenge 2
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 2
+      - [ ] **Week 3 (Aggregating data for analysis )**
+        - [ ] 01 VLOOKUP for data aggregation
+          - [ ] Video: Aggregate data for analysis 
+          - [ ] Video: Preparing for VLOOKUP
+          - [ ] Video: VLOOKUP in action
+          - [ ] Video: Identifying common VLOOKUP errors 
+          - [ ] Reading: VLOOKUP core concepts 
+          - [ ] Practice Quiz: Hands-On Activity: Using VLOOKUP 
+          - [ ] Practice Quiz: Test your knowledge on VLOOKUP
+        - [ ] 02 Use JOINS to aggregate data in SQL 
+          - [ ] Video: Understanding JOINS 
+          - [ ] Reading: Secret identities: The importance of aliases
+          - [ ] Reading: Using JOINs effectively 
+          - [ ] Practice Quiz: Hands-On Activity: Queries for JOINS
+          - [ ] Reading: Optional: Upload the warehouse dataset to BigQuery
+          - [ ] Video: COUNT and COUNT DISTINCT
+          - [ ] Practice Quiz: Test your knowledge on using JOINS to aggregate data 
+        - [ ] 03 Work with subqueries 
+          - [ ] Video: Queries within queries 
+          - [ ] Video: Using subqueries to aggregate data 
+          - [ ] Reading: SQL functions and subqueries: A functional friendship
+          - [ ] Video: Justin: Where data analysis takes you 
+          - [ ] Practice Quiz: Test your knowledge on working with subqueries 
+        - [ ] 04 Weekly challenge 3
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 3
+      - [ ] **Week 4 (Performing data calculations )**
+        - [ ] 01 Get started with data calculations 
+          - [ ] Video: Data calculations 
+          - [ ] Video: Common calculation formulas 
+          - [ ] Video: Functions and conditions
+          - [ ] Reading: Functions with multiple conditions 
+          - [ ] Practice Quiz: Hands-On Activity: Working with conditions
+          - [ ] Video: Composite functions 
+          - [ ] Practice Quiz: Test your knowledge on data calculations 
+        - [ ] 02 Pivot...pivot...pivot...
+          - [ ] Video: Start working with pivot tables 
+          - [ ] Video: Pivot tables continued
+          - [ ] Reading: Elements of a pivot table
+          - [ ] Reading: Using pivot tables in analysis 
+          - [ ] Practice Quiz: Hands-On Activity: Explore movie data with pivot tables
+          - [ ] Practice Quiz: Test your knowledge on using pivot tables 
+        - [ ] 03 Learn more SQL calculations 
+          - [ ] Video: Queries and calculations
+          - [ ] Reading: Optional: Upload the avocado dataset to BigQuery 
+          - [ ] Video: Embedding simple calculations in SQL
+          - [ ] Video: Calculations with other statements 
+          - [ ] Practice Quiz: Hands-On Activity: Calculations in SQL 
+          - [ ] Discussion Prompt: Calculations and queries 
+          - [ ] Practice Quiz: Test your knowledge on SQL calculations 
+        - [ ] 04 The data-validation process 
+          - [ ] Video: Check and recheck
+          - [ ] Reading: Types of data validation
+          - [ ] Practice Quiz: Hands-On Activity: From spreadsheets to BigQuery
+          - [ ] Reading: Learning Log: Finish your data analysis checklist
+          - [ ] Practice Quiz: Test your knowledge on data validation
+        - [ ] 05 Using SQL with temporary tables 
+          - [ ] Video: Temporary tables
+          - [ ] Practice Quiz: Hands-On Activity: Create temporary tables 
+          - [ ] Video: Multiple table variations
+          - [ ] Reading: Working with temporary tables 
+          - [ ] Reading: Your intermediate guide to SQL 
+          - [ ] Practice Quiz: Test your knowledge on using SQL with temporary tables 
+        - [ ] 06 Weekly challenge 4
+          - [ ] Reading: Glossary: Terms and definitions
+          - [ ] Quiz: Weekly challenge 4 
+        - [ ] 07 Course challenge
+          - [ ] Quiz: Course challenge 
+          - [ ] Video: Congratulations!
+          - [ ] Reading: Coming up next...
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
     - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
     - [ ] [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
