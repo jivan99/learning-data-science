@@ -169,11 +169,11 @@
       - [x] **Week 3 (Cleaning data with SQL )**
       - [x] **Week 4 (Verify and report on your cleaning results)**
       - [ ] **Week 5 (Optional: Adding data to your resume )**
-        - [ ] 01 The data analyst hiring process
-          - [ ] Video: About the data-analyst hiring process 
-          - [ ] Video: The data analyst job-application process
-          - [ ] Video: Creating a resume 
-          - [ ] Practice Quiz: Hands-On Activity: Build a resume
+        - [x] 01 The data analyst hiring process
+          - [x] Video: About the data-analyst hiring process 
+          - [x] Video: The data analyst job-application process
+          - [x] Video: Creating a resume 
+          - [x] Practice Quiz: Hands-On Activity: Build a resume
         - [ ] 02 Understand the elements of a data analyst resume
           - [ ] Video: Making your resume unique
           - [ ] Video: Joseph: Black and African American inclusion in the data industry
