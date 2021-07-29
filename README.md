@@ -191,12 +191,12 @@
       - [x] **Week 6 (Course challenge )**
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
       - [ ] **Week 1 (Organizing data to begin analysis )**
-        - [ ] 01 Let's get organized
-          - [ ] Video: Introduction to getting organized
-          - [ ] Reading: Course syllabus 
-          - [ ] Reading: Learning Log: Process and organize your data
-          - [ ] Discussion Prompt: Meet and greet
-          - [ ] Refresher: Your data analytics certificate roadmap
+        - [x] 01 Let's get organized
+          - [x] Video: Introduction to getting organized
+          - [x] Reading: Course syllabus 
+          - [x] Reading: Learning Log: Process and organize your data
+          - [x] Discussion Prompt: Meet and greet
+          - [x] Refresher: Your data analytics certificate roadmap
         - [ ] 02 Data analysis basics
           - [ ] Video: The analysis process
           - [ ] Video: Ayanna: Sticking with it
