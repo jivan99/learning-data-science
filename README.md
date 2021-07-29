@@ -168,12 +168,12 @@
       - [x] **Week 2 (Sparkling-clean data)**
       - [x] **Week 3 (Cleaning data with SQL )**
       - [ ] **Week 4 (Verify and report on your cleaning results )**
-        - [ ] 01 Manually cleaning data
-          - [ ] Video: Verifying and reporting results
-          - [ ] Video: Cleaning and your data expectations
-          - [ ] Video: The final step in data cleaning
-          - [ ] Reading: Data-cleaning verification: A checklist
-          - [ ] Practice Quiz: Test your knowledge on manual data cleaning
+        - [x] 01 Manually cleaning data
+          - [x] Video: Verifying and reporting results
+          - [x] Video: Cleaning and your data expectations
+          - [x] Video: The final step in data cleaning
+          - [x] Reading: Data-cleaning verification: A checklist
+          - [x] Practice Quiz: Test your knowledge on manual data cleaning
         - [ ] 02 Documenting results and the cleaning process
           - [ ] Video: Capturing cleaning changes
           - [ ] Reading: Embrace changelogs
