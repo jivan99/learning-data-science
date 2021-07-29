@@ -189,12 +189,12 @@
           - [ ] Video: Where does your interest lie?
           - [ ] Discussion Prompt: Share resume best practices
       - [ ] **Week 6 (Course challenge )**
-        - [ ] 01 Course challenge
-          - [ ] Reading: Glossary: Terms and definitions
-          - [ ] Video: Get ready for the course challenge
-          - [ ] Quiz: Course challenge
-          - [ ] Video: Congratulations! 
-          - [ ] Reading: Coming up next ...
+        - [x] 01 Course challenge
+          - [x] Reading: Glossary: Terms and definitions
+          - [x] Video: Get ready for the course challenge
+          - [x] Quiz: Course challenge
+          - [x] Video: Congratulations! 
+          - [x] Reading: Coming up next ...
     - [ ] [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
     - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
     - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
