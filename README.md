@@ -174,14 +174,14 @@
           - [x] Video: The final step in data cleaning
           - [x] Reading: Data-cleaning verification: A checklist
           - [x] Practice Quiz: Test your knowledge on manual data cleaning
-        - [ ] 02 Documenting results and the cleaning process
-          - [ ] Video: Capturing cleaning changes
-          - [ ] Reading: Embrace changelogs
-          - [ ] Practice Quiz: Self-Reflection: Creating a changelog
-          - [ ] Video: Why documentation is important
-          - [ ] Video: Feedback and cleaning
-          - [ ] Reading: Advanced functions for speedy data cleaning
-          - [ ] Practice Quiz: Test your knowledge on documenting the cleaning process
+        - [x] 02 Documenting results and the cleaning process
+          - [x] Video: Capturing cleaning changes
+          - [x] Reading: Embrace changelogs
+          - [x] Practice Quiz: Self-Reflection: Creating a changelog
+          - [x] Video: Why documentation is important
+          - [x] Video: Feedback and cleaning
+          - [x] Reading: Advanced functions for speedy data cleaning
+          - [x] Practice Quiz: Test your knowledge on documenting the cleaning process
         - [ ] 03 Weekly challenge 4
           - [ ] Reading: Glossary: Terms and definitions
           - [ ] Quiz: Weekly challenge 4
